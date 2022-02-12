@@ -167,7 +167,7 @@ Based on what you have Learnt, conduct the following project:
 
 <https://github.com/georgymh/ml-fraud-detection>
 
-`	`Note: Use the links below for a structured approach to a project.
+`	Note: Use the links below for a structured approach to a project. `
 
 <https://www.kaggle.com/getting-started/114864>
 
