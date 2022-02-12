@@ -1,7 +1,17 @@
 # Data Science Roadmap
 
+**Things to keep in mind while going through**
+
+- The document can be read for various tables describing the content respectively. For each table, we have topics that need to be learnt, links from where it needs to be learnt alongside additional exercises/material that follows.
+
+- The courses that we describe are available for free to audit and need not be bought. This document is in no way any paid promotion of the described courses, we recommend them based on community feedback and experience. Similar applies for the links/exercises we follow.
+
+- The courses, being highly rated in the community are found to provide a good understanding, however, in the cases otherwise, we in no manner suggest against looking/searching for other similar videos that helps the candidate's understanding.
+
+- The Week Structure we illustrate may not be in complete balance with the candidate's timeline. Therefore, in the cases as these, we advise to consider the stipulated time frame 1 week/topic to be more than 1 (maybe 2 weeks/topic) as we strongly advise to not break the structure of course action.
+
 # SQL for Reference (MySQL)
-Suggested Course: <https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst>
+**Suggested Course [Link](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst)**
 
 
 |Topic|Topic/Tutorial|Exercises|
@@ -29,11 +39,11 @@ Project to follow after completing Excel:
 ## Week 1
 **Python Environment Setup**
 
-<https://www.youtube.com/watch?v=x1cbYa2SSlE> (Windows)
+[Windows](https://www.youtube.com/watch?v=x1cbYa2SSlE)
 
-<https://www.youtube.com/watch?v=LwORmcaI69w> (Linux)
+[Linux 1](https://www.youtube.com/watch?v=LwORmcaI69w)
 
-<https://www.youtube.com/watch?v=g5jxJE0LJYA> (Linux)
+[Linux 2](https://www.youtube.com/watch?v=g5jxJE0LJYA)
 
 **Tutorial to follow**
 
@@ -41,8 +51,8 @@ Project to follow after completing Excel:
 
 **Coding Questions**
 
-- <https://www.hackerrank.com/domains/python> Easy+Medium+hard
-- <https://www.hackerrank.com/domains/mathematics> Easy+Medium
+- [Hackerrank Easy+Medium+hard](https://www.hackerrank.com/domains/python)
+- [Hackerrank Easy+Medium](https://www.hackerrank.com/domains/mathematics)
 
 
 
@@ -61,13 +71,13 @@ Project to follow after completing Excel:
 ## Week 2
 **Tutorial to Follow** 
 
-Classes and objects - Overriding: <https://www.youtube.com/watch?v=qiSCMNBIP2g>
+- [Classes and objects - Overriding](https://www.youtube.com/watch?v=qiSCMNBIP2g)
 
-Polymorphism: <https://www.youtube.com/watch?v=pii3hAksya0>
+- [Polymorphism](https://www.youtube.com/watch?v=pii3hAksya0)
 
-Data Hiding: <https://www.youtube.com/watch?v=FDdfGFhY9Ms>
+- [Data Hiding](https://www.youtube.com/watch?v=FDdfGFhY9Ms)
 
-Regular Expression: <https://www.youtube.com/watch?v=zN8rwVXwRUE>
+- [Regular Expression](https://www.youtube.com/watch?v=zN8rwVXwRUE)
 
 
 |**Topic**|**Practice Resource**|**Coding Question**|
@@ -82,12 +92,12 @@ Regular Expression: <https://www.youtube.com/watch?v=zN8rwVXwRUE>
 |Regular Expression|- <https://quizizz.com/admin/quiz/57201781231c6fb53a106d13/regular-expressions-python>- <https://www.sanfoundry.com/python-questions-answers-regular-expressions/>- <https://letsfindcourse.com/technical-questions/python-mcq-questions/regular-expressions-mcq-in-python>|<https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-regex>|
 
 ## Week 3
-**Tutorial  to Follow** <https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12>
+**Tutorial to Follow [Link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)**
 
 **Coding Questions**
 
-- <https://www.hackerrank.com/domains/data-structures> (Easy + Medium)
-- <https://www.hackerrank.com/domains/algorithms> (Easy + Medium)
+- [Hackerrank Easy + Medium Pt 1](https://www.hackerrank.com/domains/data-structures)
+- [Hackerrank Easy + Medium Pt 2](https://www.hackerrank.com/domains/algorithms)
 
 
 
@@ -103,7 +113,7 @@ Regular Expression: <https://www.youtube.com/watch?v=zN8rwVXwRUE>
 
 
 ## Week 4
-Database Introduction: <https://www.youtube.com/watch?v=wR0jg0eQsZA>
+[Introduction to Database](https://www.youtube.com/watch?v=wR0jg0eQsZA)
 
 
 |**Topic**|**Course/Tutorial**|**Exercises**|
@@ -111,7 +121,7 @@ Database Introduction: <https://www.youtube.com/watch?v=wR0jg0eQsZA>
 |NumPy|[https://www.youtube.com/watch?vQUT1VHiLmmI](https://www.youtube.com/watch?v=QUT1VHiLmmI)|- <https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb>- <https://skillvalue.com/en/quiz/python/numpy-quiz-medium-level/>- <https://letsfindcourse.com/data-science/python-numpy-mcq-questions>|
 |Pandas|<https://www.youtube.com/watch?v=vmEHCJofslg>|- <https://github.com/guipsamora/pandas_exercises>- <https://data-flair.training/blogs/python-pandas-quiz/>- <https://quizizz.com/admin/quiz/5eb11fe9a0a897001b1eedcf/python-pandas->- <https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions/>|
 |Matplotlib|<https://www.youtube.com/watch?v=yZTBMMdPOww> |<https://www.w3resource.com/graphics/matplotlib/> |
-##
+
 
 
 ## Week 5
@@ -135,9 +145,9 @@ Database Introduction: <https://www.youtube.com/watch?v=wR0jg0eQsZA>
 ## Week 7
 **Course to follow**
 
-Andrew NG Stanford Machine Learning Coursera <https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus>
+Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus)
 
-**For this Course, all Exercises in Python: <https://github.com/dibgerge/ml-coursera-python-assignments>**
+**For this Course, all Exercises in Python: [Link](https://github.com/dibgerge/ml-coursera-python-assignments)**
 
 
 
@@ -149,9 +159,10 @@ Andrew NG Stanford Machine Learning Coursera <https://www.coursera.org/learn/mac
 ||Linear Regression with One Variable- Cost Function- Gradient Descent|- <https://github.com/monash128/Linear-Regression-from-scratch-in-Python> (Scratch)- <https://github.com/MChavoshi96/one-variable-linear-regression>- <https://github.com/JayMehta97/One-Variable-Linear-Regression>|After theory Learn EDA before going to codes: <https://github.com/ejaz22/eda>(EDA Methods Code)<https://github.com/code4kunal/eda-with-python>(EDA Project)<br><https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning#syllabus>|
 ||Linear Algebra Review- Vector Arithmetic Operations||Do a quick review as you have done a detailed one initially|
 |Week 2: Andrew NG Stanford Machine Learning|Linear Regression with multiple variables- Multiple Features- Gradient Descent for Multiple Variables- Polynomial Regression- Normal Equation- Non Invertibility||- <https://github.com/pavankalyan1997/Machine-learning-without-any-libraries/tree/master/3.Multiple%20Linear%20Regression> (Scratch)- <https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Multiple%20Linear%20Regression.ipynb> (using libraries)- <https://github.com/sanithps98/Automobile-Dataset-Analysis>, (a complete project)|
-##
+
+
 ## Week 8
-**Andrew NG Stanford Machine Learning Coursera** <https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus>
+**Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus)**
 
 
 
@@ -163,15 +174,13 @@ Andrew NG Stanford Machine Learning Coursera <https://www.coursera.org/learn/mac
 
 **Summary Exercise:**
 
-Based on what you have Learnt, conduct the following project:
-
-<https://github.com/georgymh/ml-fraud-detection>
+Based on what you have Learnt, conduct the following project: [Link](https://github.com/georgymh/ml-fraud-detection)
 
 `	Note: Use the links below for a structured approach to a project. `
 
-<https://www.kaggle.com/getting-started/114864>
+- [Getting Started (Kaggle)](https://www.kaggle.com/getting-started/114864)
 
-<https://www.kaggle.com/rp1611/step-by-step-tutorial-for-beginners>
+- [Step by step tutorial for beginners](https://www.kaggle.com/rp1611/step-by-step-tutorial-for-beginners)
 
 
 
@@ -181,8 +190,8 @@ Based on what you have Learnt, conduct the following project:
 
 
 ## Week 9
-**Applied Data Science Course**  
-<https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python#syllabus>
+**Applied Data Science Course [Link](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python#syllabus)**
+
 
 
 |**Course Section**|**Topic**|**Practice Codes**|
@@ -198,8 +207,7 @@ Based on what you have Learnt, conduct the following project:
 |Week 2: Applied Data Science Course|Linear Regression: Polynomial|- <https://github.com/pickus91/Polynomial-Regression-From-Scratch> (scratch)- <https://github.com/pickus91/Polynomial-Regression-From-Scratch> |
 
 ## Week 10
-**Applied Data Science Course**  
-<https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python#syllabus>
+**Applied Data Science Course [Link](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python#syllabus)**
 
 
 |**Course Section**|**Topic**|**Practice Codes**|
@@ -212,10 +220,7 @@ Based on what you have Learnt, conduct the following project:
 
 
 ## Week 11
-**Applied Data Science Course**  
-<https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python#syllabus>
-
-
+Applied Data Science Course [Link](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python#syllabus)
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
@@ -224,15 +229,13 @@ Based on what you have Learnt, conduct the following project:
 
 
 ## Week 12
-**Quick Review**
+Quick Review
 
-IBM
-
-<https://www.coursera.org/learn/machine-learning-with-python>
+[IBM's Machine Learning with python](https://www.coursera.org/learn/machine-learning-with-python)
 
 **For this Course, all Exercises in Python:** 
 
-<https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM> 
+[Machine Learning exercise with Python (IBM)](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM)
 
 
 |**Course Section**|**Topic**|**Practice Codes**|
@@ -250,9 +253,10 @@ IBM
 ||Density Based Clustering|<https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM> |
 |Week 5: Machine Learning With Python|Content based Recommendation Engines- Recommender Systems- Collaborative Filtering|<https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM> |
 |Week 6: Machine Learning With Python|Course Project|
-##
+
+
 ## Week 13
-**Contunuing the course Andrew NG Stanford Machine Learning Coursera** <https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus>
+**Continuing the course Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus)**
 
 
 |**Course Section**|**Topic**|**Practice Codes**|
@@ -263,7 +267,7 @@ IBM
 
 
 ## Week 14
-**Andrew NG Stanford Machine Learning Coursera** <https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus>
+**Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus)**
 
 
 |**Course Section**|**Topic**|**Practice Codes**|
@@ -274,10 +278,9 @@ IBM
 ||Recommender Systems- Introduction- Content Based Recommendations- Collaborative Filtering- Vectorization|<https://github.com/mandeep147/Amazon-Product-Recommender-System> (Project)|
 |Week 10: Andrew NG Stanford Machine Learning|Refer to course Videos||
 |Week 11: Andrew NG Stanford Machine Learning|Refer to course Videos||
+
 ## Week 15
-**Continue with Deeplearning.ai specialization** <https://www.coursera.org/specializations/deep-learning#courses>
-
-
+**[Continue with Deeplearning.ai specialization](https://www.coursera.org/specializations/deep-learning#courses)**
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
@@ -288,7 +291,7 @@ IBM
 |Week 4: Neural Networks and Deep Learning|- Forward Propagation- Deep PresentationsParameters vs Hyperparameters|<https://github.com/Gurupradeep/deeplearning.ai-Assignments/tree/master/Neural-networks-Deep-learning/Week4>|
 
 ## Week 16
-**Continue with Deeplearning.ai specialization** <https://www.coursera.org/specializations/deep-learning#courses>
+**[Continue with Deeplearning.ai specialization](https://www.coursera.org/specializations/deep-learning#courses)**
 
 
 |**Course Section**|**Topic**|**Practice Codes**|
@@ -301,7 +304,7 @@ IBM
 |Week 3: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|- Tuning- Picking Hyperparammeters- Normalising Activators- Fitting Batch Norm- Softmax|<https://github.com/abhishek-yadav-cse/multiclass-classification/blob/master/MedicalAbstractClasssification.ipynb>|
 
 ## Week 17
-**Continue with Deeplearning.ai specialization** <https://www.coursera.org/specializations/deep-learning#courses>
+**[Continue with Deeplearning.ai specialization](https://www.coursera.org/specializations/deep-learning#courses)**
 
 
 |**Course Section**|**Topic**|**Practice Codes**|
@@ -343,7 +346,7 @@ IBM
 
 
 ## Week 19
-**Continue with Deeplearning.ai specialization** <https://www.coursera.org/specializations/deep-learning#courses>
+**Continue with Deeplearning.ai specialization [Link](https://www.coursera.org/specializations/deep-learning#courses)** 
 
 
 |**Course Section**|**Topic**|**Practice Codes**|
@@ -355,7 +358,7 @@ IBM
 
 
 ## Week 20
-**Continue with Deeplearning.ai specialization** <https://www.coursera.org/specializations/deep-learning#courses>
+**Continue with Deeplearning.ai specialization [Link](https://www.coursera.org/specializations/deep-learning#courses)** 
 
 
 |**Course Section**|**Topic**|**Practice Codes**|
@@ -368,49 +371,46 @@ IBM
 
 **Revise the progress till now from**
 
-<https://github.com/mrdbourke/zero-to-mastery-ml>
+[https://github.com/mrdbourke/zero-to-mastery-ml](GitHub/Zero-to-mastery-ml)
 
 
 
-**Then progress to Stanford CS231** <https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk>
+**Then progress to Stanford CS231** [https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk](Link)
 
 ## Helpful Projects to follow after learning
-- <https://github.com/IBM/image-classification-using-cnn-and-keras>
-- <https://github.com/yinglung174/Weather-Forecast-And-Prediction-by-Machine-Learning>
-- <https://github.com/21-projects-for-deep-learning/DeepMoji>
-- <https://github.com/21-projects-for-deep-learning/faceswap>
-- <https://github.com/rohanrao619/Social_Distancing_with_AI>
-- <https://github.com/robmsmt/KerasDeepSpeech>
+- [Image Classification using CNN & Keras](https://github.com/IBM/image-classification-using-cnn-and-keras)
+- [Weather Forecast & Prediction by Machine Learning](https://github.com/yinglung174/Weather-Forecast-And-Prediction-by-Machine-Learning)
+- [DeepMoji](https://github.com/21-projects-for-deep-learning/DeepMoji)
+- [FaceSwap](https://github.com/21-projects-for-deep-learning/faceswap)
+- [Social Distancing with AI](https://github.com/rohanrao619/Social_Distancing_with_AI)
+- [Keras Deep Speech](https://github.com/robmsmt/KerasDeepSpeech)
 
 ## Additional Topic Wise Helpful Resources
-- Linear Algebra: <https://www.youtube.com/watch?v=kZwSqZuBMGg>
-- What is Machine Learning?:  <https://www.youtube.com/watch?v=LBemXHm_Ops>
-- Supervised v Unsupervised v Reinforcement Learning:  <https://www.youtube.com/watch?v=LBemXHm_Ops>
-- Getting started with Jupyter Notebook: <https://www.youtube.com/watch?v=pZW8Ry3R1e8>
-- Linear Regression:  <https://www.youtube.com/watch?v=LBemXHm_Ops>
-- Non-Linear Regression:  <https://www.youtube.com/watch?v=LBemXHm_Ops>
-- Multiple Variable Linear Regression:  <https://www.youtube.com/watch?v=LBemXHm_Ops>
-- Classification: <https://www.youtube.com/watch?v=DAFljjxmyZw>
-- Logistic Regression:  <https://www.youtube.com/watch?v=LBemXHm_Ops>
-- Regularisation:  <https://www.youtube.com/watch?v=LBemXHm_Ops>
-- K Nearest Neighbours: <https://www.youtube.com/watch?v=wTF6vzS9fy4>
-- Classification Metrics: <https://www.youtube.com/watch?v=HBi-P5j0Kec>
-- Support Vector Machine: <https://www.youtube.com/watch?v=FB5EdxAGxQg>
-- Naive Bayes: <https://www.youtube.com/watch?v=vz_xuxYS2PM>
-- Support Vector Machine: <https://www.youtube.com/watch?v=2v430er9hkI>
-- Decision Tree: <https://www.youtube.com/watch?v=qDcl-FRnwSU>
-- Random Forest: <https://www.youtube.com/watch?v=lEqu-WJjRt4>
-- Stochastic Gradient Descent: <https://www.youtube.com/watch?v=aXpsCyXXMJE>
-- Neural Network: <https://www.youtube.com/watch?v=9UBqkUJVP4g>
-- Clustering: <https://www.youtube.com/watch?v=4cxVDUybHrI>
-- K Means Clustering: <https://www.youtube.com/watch?v=EItlUEPCIzM>
-- Hierarchical Clustering: <https://www.youtube.com/watch?v=EUQY3hL38cw>
-- Mean Shift Clustering: <https://www.youtube.com/watch?v=3ERPpzrDkVg>
-- DBSCAN: <https://www.youtube.com/watch?v=Q7iWANbkFxk>
-- EM Algorithm: <https://www.youtube.com/watch?v=DIADjJXrgps>
-
-
-
+- [Linear Algebra](https://www.youtube.com/watch?v=kZwSqZuBMGg)
+- [What is Machine Learning?](https://www.youtube.com/watch?v=LBemXHm_Ops)
+- [Supervised v Unsupervised v Reinforcement Learning](https://www.youtube.com/watch?v=LBemXHm_Ops)
+- [Getting started with Jupyter Notebook](https://www.youtube.com/watch?v=pZW8Ry3R1e8)
+- [Linear Regression](https://www.youtube.com/watch?v=LBemXHm_Ops)
+- [Non-Linear Regression](https://www.youtube.com/watch?v=LBemXHm_Ops)
+- [Multiple Variable Linear Regression](https://www.youtube.com/watch?v=LBemXHm_Ops)
+- [Classification](https://www.youtube.com/watch?v=DAFljjxmyZw)
+- [Logistic Regression](https://www.youtube.com/watch?v=LBemXHm_Ops)
+- [Regularisation](https://www.youtube.com/watch?v=LBemXHm_Ops)
+- [K Nearest Neighbours](https://www.youtube.com/watch?v=wTF6vzS9fy4)
+- [Classification Metrics](https://www.youtube.com/watch?v=HBi-P5j0Kec)
+- [Support Vector Machine](https://www.youtube.com/watch?v=FB5EdxAGxQg)
+- [Naive Bayes](https://www.youtube.com/watch?v=vz_xuxYS2PM)
+- [Support Vector Machine](https://www.youtube.com/watch?v=2v430er9hkI)
+- [Decision Tree](https://www.youtube.com/watch?v=qDcl-FRnwSU)
+- [Random Forest](https://www.youtube.com/watch?v=lEqu-WJjRt4)
+- [Stochastic Gradient Descent](https://www.youtube.com/watch?v=aXpsCyXXMJE)
+- [Neural Network](https://www.youtube.com/watch?v=9UBqkUJVP4g)
+- [Clustering](https://www.youtube.com/watch?v=4cxVDUybHrI)
+- [K Means Clustering](https://www.youtube.com/watch?v=EItlUEPCIzM)
+- [Hierarchical Clustering](https://www.youtube.com/watch?v=EUQY3hL38cw)
+- [Mean Shift Clustering](https://www.youtube.com/watch?v=3ERPpzrDkVg)
+- [DBSCAN](https://www.youtube.com/watch?v=Q7iWANbkFxk)
+- [EM Algorithm](https://www.youtube.com/watch?v=DIADjJXrgps)
 
 **Helpful Books for Reference**
 
