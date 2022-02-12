@@ -1,16 +1,5 @@
 # Data Science Roadmap
 
-
-**Things to keep in mind while going through**
-
-- The document can be read for various tables describing the content respectively. For each table, we have topics that need to be learnt, links from where it needs to be learnt alongside additional exercises/material that follows.
-
-- The courses that we describe are available for free to audit and need not be bought. This document is in no way any paid promotion of the described courses, we recommend them based on community feedback and experience. Similar applies for the links/exercises we follow.
-
-- The courses, being highly rated in the community are found to provide a good understanding, however, in the cases otherwise, we in no manner suggest against looking/searching for other similar videos that helps the candidate's understanding.
-
-- The Week Structure we illustrate may not be in complete balance with the candidate's timeline. Therefore, in the cases as these, we advise to consider the stipulated time frame 1 week/topic to be more than 1 (maybe 2 weeks/topic) as we strongly advise to not break the structure of course action.
-
 # SQL for Reference (MySQL)
 Suggested Course: <https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst>
 
@@ -25,26 +14,6 @@ Suggested Course: <https://www.coursera.org/learn/sql-data-science?specializatio
 |SQL Project View|Take a Look at the Project Level Implementation of SQL|- <https://github.com/samarth-p/College-ERP>- <https://github.com/honza/anosql>|
 
 
-
-Additional Practice Problems:
-
-- <https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-book-list-database>
-- <https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-box-office-hits-database>
-- <https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-todo-list-database-stats>
-- <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pc/challenge-karaoke-song-selector>
-- <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pc/challenge-playlist-maker>
-- <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pc/challenge-the-wordiest-author>
-- <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pc/challenge-gradebook>
-- <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pc/challenge-bobbys-hobbies>
-- <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pc/challenge-customers-orders>
-- <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pc/challenge-sequels-in-sql>
-- <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pc/challenge-friendbook>
-- <https://www.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/pc/challenge-dynamic-documents>
-- <https://www.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/pc/challenge-clothing-alterations>
-- <https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pp/project-design-a-store-database>
-- <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pp/project-data-dig>
-- <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pp/project-famous-people> 
-- <https://www.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/pp/project-app-impersonator>
 # Excel for Reference
 
 
