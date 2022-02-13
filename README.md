@@ -23,8 +23,8 @@
 
 |Topic|Course/Tutorial|Exercises|
 | :-: | :-: | :-: |
-|Excel| [Tutorial 1](https://www.youtube.com/playlist?list=PLmejDGrsgFyCZ4YC5s8mgdQztj7zt5to5) [Tutorial 2](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst#syllabus)|[Excel Interview Questions](https://www.edureka.co/blog/interview-questions/excel-interview-questions)|
-|Excel Advanced(Preferred if your Job Description requires sound knowledge of Excel)| [Tutorial 1](https://www.youtube.com/watch?v=UPABcYhugZk&list=PLm8I8moAHiH2kkq0S9XGvIbPODrHzXRp6) [Tutorial 2](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1) | [Excel VBA for Creative problem solving](https://github.com/Brucewuzhang/excel-vba-for-creative-problem-solving/tree/master/course%201) |
+|Excel| [Tutorial 1](https://www.youtube.com/playlist?list=PLmejDGrsgFyCZ4YC5s8mgdQztj7zt5to5) <br/> [Tutorial 2](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst#syllabus)|[Excel Interview Questions](https://www.edureka.co/blog/interview-questions/excel-interview-questions)|
+|Excel Advanced(Preferred if your Job Description requires sound knowledge of Excel)| [Tutorial 1](https://www.youtube.com/watch?v=UPABcYhugZk&list=PLm8I8moAHiH2kkq0S9XGvIbPODrHzXRp6) <br/> [Tutorial 2](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1) | [Excel VBA for Creative problem solving](https://github.com/Brucewuzhang/excel-vba-for-creative-problem-solving/tree/master/course%201) |
 
 **Project to follow after completing Excel:**
 - [Data Analysis Project in MS Excel](https://github.com/harshtakrani007/Data-Analysis-Projects-in-MS-Excel)
@@ -96,7 +96,7 @@
 | :-: | :-: | :-: |
 |Time Complexity| [Quiz 1](https://www.educative.io/courses/data-structures-coding-interviews-python/gxQxZy2PrDY) [Quiz 2](https://www.sanfoundry.com/discrete-mathematics-mcqs-complexity-algorithms) [Quiz 3](https://www.sanfoundry.com/discrete-mathematics-questions-answers-freshers)|[Theory](https://www.interviewbit.com/courses/programming/topics/time-complexity)|
 |Recursion| [Quiz 1](https://www.sanfoundry.com/python-questions-answers-recursion) [Quiz 2](https://www.educative.io/collection/page/6151088528949248/4547996664463360/5756248274239488)|[Theory](https://web.stanford.edu/class/cs9/lectures/06/Recursion%20Problems.pdf)|
-|Linked List|[Practice Problems](https://www.geeksforgeeks.org/data-structure-gq/linked-list-gq)| Practice from Hackerank given above [Additional Prboblems](https://www.sanfoundry.com/python-programming-examples-linked-lists)|
+|Linked List|[Practice Problems](https://www.geeksforgeeks.org/data-structure-gq/linked-list-gq)| Practice from Hackerank given above [Additional Problems](https://www.sanfoundry.com/python-programming-examples-linked-lists)|
 |Stacks and Queues|[Quiz 1](https://quizizz.com/admin/quiz/5f45fadf625a63001f7623a2/python-stacks-queues)| Practice from Hackerank given above [Additional Problems](https://www.sanfoundry.com/python-programming-examples-stacks-queues)|
 |Hashing|[Quiz](https://www.geeksforgeeks.org/data-structure-gq/hash-gq)|Practice from Hackerank given above|
 |Searching Algorithms|[Quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-gq) | Practice from Hackerank given above [Additional Problems](https://www.sanfoundry.com/python-programming-examples-searching-sorting)|
@@ -147,9 +147,9 @@ Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/lea
 |Week 1: Andrew NG Stanford Machine Learning|What is Machine Learning|||
 ||Supervised Learning|||
 ||Unsupervised Learning|||
-||Linear Regression with One Variable- Cost Function- Gradient Descent| [Linear Regression without Library in Python](https://github.com/monash128/Linear-Regression-from-scratch-in-Python)  [One variable Linear Regression](https://github.com/MChavoshi96/one-variable-linear-regression) [One variable Linear Regressions (Advanced)](https://github.com/JayMehta97/One-Variable-Linear-Regression)|After theory Learn EDA before going to codes: [EDA 1](https://github.com/ejaz22/eda)(EDA Methods Code)[EDA 2](https://github.com/code4kunal/eda-with-python)(EDA Project)[Data Analysis](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning#syllabus)|
+||Linear Regression with One Variable- Cost Function- Gradient Descent| [Linear Regression without Library in Python](https://github.com/monash128/Linear-Regression-from-scratch-in-Python)  [One variable Linear Regression](https://github.com/MChavoshi96/one-variable-linear-regression) [One variable Linear Regressions (Advanced)](https://github.com/JayMehta97/One-Variable-Linear-Regression)| Learn EDA before codes <br/> [EDA 1](https://github.com/ejaz22/eda)(EDA Methods Code) <br/> [EDA 2](https://github.com/code4kunal/eda-with-python)(EDA Project) <br/> [Data Analysis](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning#syllabus)|
 ||Linear Algebra Review- Vector Arithmetic Operations||Do a quick review as you have done a detailed one initially|
-|Week 2: Andrew NG Stanford Machine Learning|Linear Regression with multiple variables- Multiple Features- Gradient Descent for Multiple Variables- Polynomial Regression- Normal Equation- Non Invertibility|| [ML without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries/tree/master/3.Multiple%20Linear%20Regression) [ML using libraries](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Multiple%20Linear%20Regression.ipynb) [Project](https://github.com/sanithps98/Automobile-Dataset-Analysis)|
+|Week 2: Andrew NG Stanford Machine Learning|Linear Regression with multiple variables- Multiple Features- Gradient Descent for Multiple Variables- Polynomial Regression- Normal Equation- Non Invertibility|| [ML without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries/tree/master/3.Multiple%20Linear%20Regression) <br/> [ML using libraries](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Multiple%20Linear%20Regression.ipynb) <br/> [Project](https://github.com/sanithps98/Automobile-Dataset-Analysis)|
 
 
 ## Week 8
@@ -159,8 +159,8 @@ Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/lea
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 3: Andrew NG Stanford Machine Learning|Logistic Regression- Classification- Hypothesis Representation- Decision Boundary- Cost Function- Optimization| [Logistic Regression Practice from scratch](https://github.com/CloudyDay54/Logistic-Regression-Practice) [Logistic Regression using Library](https://github.com/CarolynMassa/LogisticRegression/blob/master/Mini_Project_Logistic_Regression.ipynb) [Logistic Practice examples](https://github.com/aryamonani/Logistic-Regression-practice-examples) |
-||Regularization- Overfitting- Regularised Linear Regression- Regularised Logistic Regression|[Regularization without library](https://github.com/pickus91/Logistic-Regression-Classifier-with-L2-Regularization) |
+|Week 3: Andrew NG Stanford Machine Learning|Logistic Regression: <br/>Classification <br/>Hypothesis Representation <br/>Decision Boundary <br/>Cost Function <br/>Optimization| [Logistic Regression Practice from scratch](https://github.com/CloudyDay54/Logistic-Regression-Practice) <br/> [Logistic Regression using Library](https://github.com/CarolynMassa/LogisticRegression/blob/master/Mini_Project_Logistic_Regression.ipynb) <br/> [Logistic Practice examples](https://github.com/aryamonani/Logistic-Regression-practice-examples) |
+||Regularization <br/>Overfitting <br/>Regularised Linear Regression <br/>Regularised Logistic Regression|[Regularization without library](https://github.com/pickus91/Logistic-Regression-Classifier-with-L2-Regularization) |
 
 
 **Summary Exercise:**
@@ -177,7 +177,7 @@ Based on what you have Learned, conduct the following project: [Link](https://gi
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 7: Andrew NG Stanford Machine Learning|Support Vector Machines- Optimisation- Large Margin Intuition- Underlying Mathematics- Kernels| [SVM using Library 1](https://github.com/cperales/SupportVectorMachine) [SVM using Library 2](https://github.com/AmmirMahdi/Support-Vector-Machine-With-Python) [SVM without Library](https://github.com/CihanBosnali/Support-Vector-Machine-without-ML-libraries) |
+|Week 7: Andrew NG Stanford Machine Learning|Support Vector Machines <br/>Optimisation <br/>Large Margin Intuition <br/>Underlying Mathematics <br/>Kernels| [SVM using Library 1](https://github.com/cperales/SupportVectorMachine) <br/> [SVM using Library 2](https://github.com/AmmirMahdi/Support-Vector-Machine-With-Python) <br/> [SVM without Library](https://github.com/CihanBosnali/Support-Vector-Machine-without-ML-libraries) |
 
 
 ## Week 9
@@ -185,14 +185,14 @@ Based on what you have Learned, conduct the following project: [Link](https://gi
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 1: Applied Data Science Course|Intro to SciKit Learn| [Environment Setup](https://github.com/PythonWorkshop/intro-to-sklearn) [Code Tutorial](https://github.com/mmmayo13/scikit-learn-classifiers) [Project](https://github.com/sixhobbits/sklearn-intro) |
-|Week 1: Applied Data Science Course|K Nearest Neighbors| [KNN from sratch](https://github.com/sagarmk/Knn-from-scratch)  [KNN using SKLearn](https://github.com/jakemath/KNN-SKLearn)  [UCI Glass detection](https://github.com/aaqibqadeer/UCI-glass-detection)|
+|Week 1: Applied Data Science Course|Intro to SciKit Learn| [Environment Setup](https://github.com/PythonWorkshop/intro-to-sklearn) <br/> [Code Tutorial](https://github.com/mmmayo13/scikit-learn-classifiers) [Project](https://github.com/sixhobbits/sklearn-intro) |
+|Week 1: Applied Data Science Course|K Nearest Neighbors| [KNN from sratch](https://github.com/sagarmk/Knn-from-scratch) <br/> [KNN using SKLearn](https://github.com/jakemath/KNN-SKLearn) <br/> [UCI Glass detection](https://github.com/aaqibqadeer/UCI-glass-detection)|
 |Week 2: Applied Data Science Course|Introduction to Supervised Learning||
 |Week 2: Applied Data Science Course|Overfitting and Underfitting||
 |Week 2: Applied Data Science Course|Supervised Learning: Datasets||
 |Week 2: Applied Data Science Course|K Nearest Neighbours||
-|Week 2: Applied Data Science Course|Linear Regression: Least Squares| [Boston Housing Problem - Linear Regression](https://github.com/jorgesleonel/linear-regression/blob/master/Boston%2BHousing%2BPricing%2BLinear%2BRegression.ipynb) [Simple Linear Regression](https://github.com/raxshah/Simple-Linear-Regression-Python) |
-|Week 2: Applied Data Science Course|Linear Regression: Lasso| [Lasso Regression without library](https://github.com/mihirchakradeo/LassoRegression)  [Lasso Regression with library](https://github.com/kirenz/lasso-regression) |
+|Week 2: Applied Data Science Course|Linear Regression: Least Squares| [Boston Housing Problem - Linear Regression](https://github.com/jorgesleonel/linear-regression/blob/master/Boston%2BHousing%2BPricing%2BLinear%2BRegression.ipynb) <br/> [Simple Linear Regression](https://github.com/raxshah/Simple-Linear-Regression-Python) |
+|Week 2: Applied Data Science Course|Linear Regression: Lasso| [Lasso Regression without library](https://github.com/mihirchakradeo/LassoRegression) <br/> [Lasso Regression with library](https://github.com/kirenz/lasso-regression) |
 |Week 2: Applied Data Science Course|Linear Regression: Polynomial| [Polynomial Regression without Library](https://github.com/pickus91/Polynomial-Regression-From-Scratch) |
 
 ## Week 10
@@ -201,10 +201,10 @@ Based on what you have Learned, conduct the following project: [Link](https://gi
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
 |Week 2: Applied Data Science Course|Logistic Regression|Since it's already covered, do a quick review here.|
-|Week 2: Applied Data Science Course|Support Vector Machines| [SVM using Library](https://github.com/cperales/SupportVectorMachine)  [SVM with Python](https://github.com/AmmirMahdi/Support-Vector-Machine-With-Python)  [SVM without library](https://github.com/CihanBosnali/Support-Vector-Machine-without-ML-libraries) |
-|Week 2: Applied Data Science Course|Decision Trees| [Naive Bayes without library](https://github.com/Radhikadua123/naive_bayes)  [Decision tree without library](https://github.com/harrypnh/decision-tree-from-scratch) |
+|Week 2: Applied Data Science Course|Support Vector Machines| [SVM using Library](https://github.com/cperales/SupportVectorMachine) <br/> [SVM with Python](https://github.com/AmmirMahdi/Support-Vector-Machine-With-Python) <br/> [SVM without library](https://github.com/CihanBosnali/Support-Vector-Machine-without-ML-libraries) |
+|Week 2: Applied Data Science Course|Decision Trees| [Naive Bayes without library](https://github.com/Radhikadua123/naive_bayes) <br/> [Decision tree without library](https://github.com/harrypnh/decision-tree-from-scratch) |
 |CS229 Stanford|Ensemble Methods|[Theory](https://www.youtube.com/watch?v=wr9gUr-eWdA)|
-|Week 4: Applied Data Science Course|Naive Bayes| [Naive Bayes](https://github.com/Radhikadua123/naive_bayes)  [Sklearn Classifiers](https://github.com/jg-fisher/sklearn-classifiers)|
+|Week 4: Applied Data Science Course|Naive Bayes| [Naive Bayes](https://github.com/Radhikadua123/naive_bayes) <br/> [Sklearn Classifiers](https://github.com/jg-fisher/sklearn-classifiers)|
 
 
 ## Week 11
@@ -212,8 +212,8 @@ Applied Data Science Course [Link](https://www.coursera.org/learn/python-machine
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 4: Applied Data Science Course|Random Forests| [Random forest without library](https://github.com/harrypnh/random-forest-from-scratch)  [Random forest Classifier](https://github.com/mahesh147/Random-Forest-Classifier) |
-|Week 4: Applied Data Science Course|Dimensionality Reduction and Manifold Learning| [Good Read](https://jakevdp.github.io/PythonDataScienceHandbook/05.10-manifold-learning.html) [Dimensionlaity reduction and classification on Hyperspectral images](https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python) |
+|Week 4: Applied Data Science Course|Random Forests| [Random forest without library](https://github.com/harrypnh/random-forest-from-scratch) <br/> [Random forest Classifier](https://github.com/mahesh147/Random-Forest-Classifier) |
+|Week 4: Applied Data Science Course|Dimensionality Reduction and Manifold Learning| [Good Read](https://jakevdp.github.io/PythonDataScienceHandbook/05.10-manifold-learning.html) <br/> [Dimensionlaity reduction and classification on Hyperspectral images](https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python) |
 
 
 ## Week 12
@@ -260,10 +260,10 @@ Quick Review
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 8: Andrew NG Stanford Machine Learning|Unsupervised Learning- Introduction- K-means- Optimisation Objective- Initialisation- Picking Clusters| [Handson unsupervised learning](https://github.com/aapatel09/handson-unsupervised-learning) [Unsupervised Learning](https://github.com/srp98/Unsupervised-Learning)  [Unsupervised learning without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries) |
-||Dimensionality Reduction- Data Compression- Visualization- PCA| [Dataset Dimensionality reduction in Python](https://github.com/lucko515/dataset-dimensionality-reduction-python)  [Complete Project](https://github.com/gavr97/dimensionality-reduction) |
-|Week 9: Andrew NG Stanford Machine Learning|Anomaly Detection- Introduction- Gaussian Distribution- Algorithm- Evaluation- Anomaly Detection vs Supervised Learning- Choosing Features- Multivariate Gaussian| [Anamoly Detection](https://github.com/aqibsaeed/Anomaly-Detection/blob/master/Anomaly%20Detection.ipynb) |
-||Recommender Systems- Introduction- Content Based Recommendations- Collaborative Filtering- Vectorization|[Amazon Product Recommender System](https://github.com/mandeep147/Amazon-Product-Recommender-System) |
+|Week 8: Andrew NG Stanford Machine Learning|Unsupervised Learning <br/>Introduction <br/>K-means <br/>Optimisation Objective <br/>Initialisation <br/>Picking Clusters| [Handson unsupervised learning](https://github.com/aapatel09/handson-unsupervised-learning) <br/> [Unsupervised Learning](https://github.com/srp98/Unsupervised-Learning) <br/> [Unsupervised learning without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries) |
+||Dimensionality Reduction <br/>Data Compression <br/>Visualization <br/>PCA| [Dataset Dimensionality reduction in Python](https://github.com/lucko515/dataset-dimensionality-reduction-python) <br/> [Complete Project](https://github.com/gavr97/dimensionality-reduction) |
+|Week 9: Andrew NG Stanford Machine Learning|Anomaly Detection <br/>Gaussian Distribution <br/>Anomaly Detection vs Supervised Learning- Choosing Features- Multivariate Gaussian| [Anamoly Detection](https://github.com/aqibsaeed/Anomaly-Detection/blob/master/Anomaly%20Detection.ipynb) |
+||Recommender Systems <br/>Content Based Recommendations <br/>Collaborative Filtering <br/>Vectorization|[Amazon Product Recommender System](https://github.com/mandeep147/Amazon-Product-Recommender-System) |
 |Week 10: Andrew NG Stanford Machine Learning|Refer to course Videos||
 |Week 11: Andrew NG Stanford Machine Learning|Refer to course Videos||
 
@@ -272,11 +272,11 @@ Quick Review
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 1: Neural Networks and Deep Learning|- What are the neural network and deep learning?- Supervised Learning with Neural Networks|[Course Practice Problem](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1)|
-|Week 2: Neural Networks and Deep Learning|- Binary Classification- Logistic Regression- Cost Function- Gradient Descent- Derivatives- Computation Graph|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week2/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv4.ipynb)|
-|Week 2: Neural Networks and Deep Learning|- Vectorization- Broadcasting in Python- Getting Started with Jupyter Notebook|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week2/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)|
-|Week 3: Neural Networks and Deep Learning|- Neural network representation- Vectorising- Activation Functions- Non Linear Activation Functions- Derivation of Activation Functions- Gradient Descent for Neural Networks- Backpropagation- Random Initialisation|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week3/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv4.ipynb)|
-|Week 4: Neural Networks and Deep Learning|- Forward Propagation- Deep PresentationsParameters vs Hyperparameters|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/tree/master/Neural-networks-Deep-learning/Week4)|
+|Week 1: Neural Networks and Deep Learning| What are the neural network and deep learning? <br/>Supervised Learning with Neural Networks|[Course Practice Problem](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1)|
+|Week 2: Neural Networks and Deep Learning| Binary Classification <br/>Logistic Regression <br/>Cost Function <br/>Gradient Descent <br/>Derivatives <br/>Computation Graph|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week2/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv4.ipynb)|
+|Week 2: Neural Networks and Deep Learning| Vectorization <br/>Broadcasting in Python <br/>Getting Started with Jupyter Notebook|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week2/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)|
+|Week 3: Neural Networks and Deep Learning| Neural network representation <br/>Vectorising <br/>Activation Functions <br/>Non Linear Activation Functions <br/>Derivation of Activation Functions <br/>Gradient Descent for Neural Networks <br/>Backpropagation <br/>Random Initialisation|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week3/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv4.ipynb)|
+|Week 4: Neural Networks and Deep Learning| Forward Propagation <br/>Deep PresentationsParameters vs Hyperparameters|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/tree/master/Neural-networks-Deep-learning/Week4)|
 
 ## Week 16
 **[Continue with Deeplearning.ai specialization](https://www.coursera.org/specializations/deep-learning#courses)**
@@ -284,12 +284,12 @@ Quick Review
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|- Train/Dev/Test- Bias/Variance| [Course Practice Problem 1](https://www.coursera.org/learn/deep-neural-network/home/week/1) [Course Practice Problem 2](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Initialization.ipynb)|
-|Week 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|- Regularization- Importance of Regularization- Dropout- Normalizing Input- Vanishing/Exploding Gradients- Weight Initialisation- Gradient Checking|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Regularization.ipynb)|
-|Week 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|- Mini Batch Gradient Descent- Bias Correction- Momentum- RMSProp|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Gradient%2BChecking.ipynb)|
-|Week 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|- Adam Optimisation- Learning Rate Decay- Local Optima|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%202/Optimization%2Bmethods.ipynb)|
-|Week 3: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|Hyperparameter tuning| [Course Practice Problem 1](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms/blob/master/HPO_Regression.ipynb) [Course Practice Problem 2](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms/blob/master/HPO_Classification.ipynb)|
-|Week 3: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|- Tuning- Picking Hyperparammeters- Normalising Activators- Fitting Batch Norm- Softmax|[Course Practice Problem](https://github.com/abhishek-yadav-cse/multiclass-classification/blob/master/MedicalAbstractClasssification.ipynb)|
+|Week 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Train/Dev/Test <br/>Bias/Variance| [Course Practice Problem 1](https://www.coursera.org/learn/deep-neural-network/home/week/1) <br/> [Course Practice Problem 2](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Initialization.ipynb)|
+|Week 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Regularization <br/>Importance of Regularization <br/>Dropout <br/>Normalizing Input <br/>Vanishing/Exploding Gradients <br/>Weight Initialisation <br/>Gradient Checking|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Regularization.ipynb)|
+|Week 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Mini Batch Gradient Descent <br/>Bias Correction <br/>Momentum <br/>RMSProp|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Gradient%2BChecking.ipynb)|
+|Week 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Adam Optimisation <br/>Learning Rate Decay <br/>Local Optima|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%202/Optimization%2Bmethods.ipynb)|
+|Week 3: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|Hyperparameter tuning| [Course Practice Problem 1](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms/blob/master/HPO_Regression.ipynb) <br/> [Course Practice Problem 2](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms/blob/master/HPO_Classification.ipynb)|
+|Week 3: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization| Tuning <br/>Picking Hyperparammeters <br/>Normalising Activators <br/>Fitting Batch Norm- Softmax|[Course Practice Problem](https://github.com/abhishek-yadav-cse/multiclass-classification/blob/master/MedicalAbstractClasssification.ipynb)|
 
 ## Week 17
 **[Continue with Deeplearning.ai specialization](https://www.coursera.org/specializations/deep-learning#courses)**
@@ -297,7 +297,7 @@ Quick Review
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 1: Structuring Machine Learning Projects|- ML Strategy- Orthogonalisation- Satisficing & Optimising Metric- Varying Dev/Test sets & Metrics- Avoidable Bias|[Course Practice Problem](https://github.com/bnsreenu/python_for_microscopists/blob/master/144_145_binary_classification_ROC_AUC.py) |
+|Week 1: Structuring Machine Learning Projects| Orthogonalisation <br/>Satisficing & Optimising Metric <br/>Varying Dev/Test sets & Metrics <br/>Avoidable Bias|[Course Practice Problem](https://github.com/bnsreenu/python_for_microscopists/blob/master/144_145_binary_classification_ROC_AUC.py) |
 |Week 2: Structuring Machine Learning Projects|Error Analysis|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/GwViP/carrying-out-error-analysis) |
 |Week 2: Structuring Machine Learning Projects|Mismatched training and dev/test set|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/Xs9IV/training-and-testing-on-different-distributions) |
 |Week 2: Structuring Machine Learning Projects|Learning from Multiple Tasks|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/WNPap/transfer-learning) |
@@ -338,10 +338,10 @@ Quick Review
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 1: Convolutional Neural Networks|Convolutional Neural Networks Foundation- Computer Vision- Edge Detection- Padding- Stride- Convolution over volume- Example- Pooling| [Course Practice Problem 1](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb) [Course Practice Problem 2](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Convolution%20model%20-%20Application%20-%20v1.ipynb)|
-|Week 2: Convolutional Neural Networks|Case Studies using ConvNets- Resnets- Inception- Mobile Net- Efficient Net- Transfer Learning- Data Augmentation|Course Practice Problem[](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Residual%20Networks%20-%20v1.ipynb)|
-|Week 3: Convolutional Neural Networks|Detection Algorithms- Object Localization- Landmark Detection- Object Detection- Sliding Windows- Bounding Box- IoU- Non max suppression- Anchor Box- YOLO- Region Proposal- Semantic Segmentation- Transpose Convolution- U-Net|[Course Practice Problem](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.ipynb)|
-|Week 4: Convolutional Neural Networks|Special applications: Face recognition & Neural style transfer- Face Recognition- One Shot Learning- Siameses Net- Triplet Loss- Face Verification & Binary Classification- Neural Style Transfer- Deep ConvNets Learning- Cost Function- Content Cost Function- Style Cost Function- 1D & 3D Generalisations| [Course Practice Problem 1](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v1.ipynb) [Course Practice Problem 2](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Face%20Recognition%20for%20the%20Happy%20House%20-%20v2.ipynb) |
+|Week 1: Convolutional Neural Networks|Convolutional Neural Networks Foundation <br/> Edge Detection <br/> Padding <br/> Stride <br/> Convolution over volume <br/> Pooling| [Course Practice Problem 1](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb) <br/> [Course Practice Problem 2](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Convolution%20model%20-%20Application%20-%20v1.ipynb)|
+|Week 2: Convolutional Neural Networks|Case Studies using ConvNets <br/>Resnets <br/>Inception <br/>Mobile Net <br/>Efficient Net <br/>Transfer Learning <br/>Data Augmentation|[Course Practice Problem](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Residual%20Networks%20-%20v1.ipynb)|
+|Week 3: Convolutional Neural Networks| Object Localization <br/>Landmark Detection <br/>Object Detection <br/>Sliding Windows <br/>Bounding Box <br/>IoU <br/>Non max suppression <br/>Anchor Box <br/>YOLO <br/>Region Proposal <br/>Semantic Segmentation <br/>Transpose Convolution <br/>U-Net|[Course Practice Problem](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.ipynb)|
+|Week 4: Convolutional Neural Networks| Face recognition & Neural style transfer <br/>Face Recognition <br/>One Shot Learning <br/>Siameses Net <br/>Triplet Loss <br/>Face Verification & Binary Classification <br/>Neural Style Transfer <br/>Deep ConvNets Learning <br/>Cost Function <br/>Content Cost Function <br/>Style Cost Function <br/>1D & 3D Generalisations| [Course Practice Problem 1](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v1.ipynb) <br/> [Course Practice Problem 2](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Face%20Recognition%20for%20the%20Happy%20House%20-%20v2.ipynb) |
 
 
 ## Week 20
@@ -349,19 +349,17 @@ Quick Review
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 1:Sequence Models|Recurrent Neural Networks- Notation- Recurrent Neural Network Model- Backpropagation through time- Types of RNN- Language Model & Sequence Generation- Novel Sequences- Vanishing Gradients with RNN- GRU- LSTM- Bidirectional RNN- Deep RNN|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%201)|
-|Week 2:Sequence Models|Word Embeddings- Word Representation- Word Embeddings- Embedding Matrix- Word2Vec- Negative Sampling- GloVe- Sentiment Classification- Debiasing word embeddings|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%202)|
-|Week 3:Sequence Models|Various sequence to sequence architectures- Basic Models- Picking Most Likely Sentence- Beam search- Error Analysis in Beam Search- Bleu Score- Attention Model|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%203/Machine%20Translation)|
-|Week 3:Sequence Models|Speech Recognition- Problem- Trigger Word Detection|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%203/Trigger%20word%20detection)|
+|Week 1:Sequence Models|Recurrent Neural Networks <br/> Backpropagation through time <br/>Types of RNN <br/> Language Model & Sequence Generation <br/> Novel Sequences <br/> Vanishing Gradients with RNN, GRU, LSTM, Bidirectional RNN, Deep RNN|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%201)|
+|Week 2:Sequence Models| Word Representation <br/> Word Embeddings <br/> Embedding Matrix <br/> Word2Vec <br/> Negative Sampling <br/> GloVe <br/> Sentiment Classification <br/> Debiasing word embeddings|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%202)|
+|Week 3:Sequence Models|Various sequence to sequence architectures <br/> Basic Models <br/> Picking Most Likely Sentence <br/> Beam search <br/> Error Analysis in Beam Search <br/> Bleu Score <br/> Attention Model|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%203/Machine%20Translation)|
+|Week 3:Sequence Models|Speech Recognition <br/> Trigger Word Detection|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%203/Trigger%20word%20detection)|
 
 
 **Revise the progress till now from**
 
 [https://github.com/mrdbourke/zero-to-mastery-ml](GitHub/Zero-to-mastery-ml)
 
-
-
-**Then progress to Stanford CS231** [https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk](Link)
+**Then progress to Stanford CS231** [Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 ## Helpful Projects to follow after learning
 - [Image Classification using CNN & Keras](https://github.com/IBM/image-classification-using-cnn-and-keras)
@@ -400,10 +398,10 @@ Quick Review
 
 **Helpful Books for Reference**
 
-- [Deep learning book](https://www.deeplearningbook.org/) - Free Online
-- [Dive into Deep Learning](http://d2l.ai/) - Free Online
-- [Mathematics for Machine Learning](https://mml-book.com/) - Free Online
-- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - Free Online
+- [Deep learning book](https://www.deeplearningbook.org/) 
+- [Dive into Deep Learning](http://d2l.ai/) 
+- [Mathematics for Machine Learning](https://mml-book.com/) 
+- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) 
 
 ## Kaggle Resources
 [Click](https://www.coursera.org/learn/competitive-data-science#syllabus)
