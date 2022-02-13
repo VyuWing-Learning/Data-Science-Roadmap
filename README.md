@@ -16,7 +16,7 @@
 
 |Topic|Topic/Tutorial|Exercises|
 | :-: | :-: | :-: |
-|SQL|<https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=youtu.be><br>(ER Diagrams towards the end of the video are optional)|- <https://www.hackerrank.com/domains/sql>- <https://www.w3schools.com/sql/exercise.asp>- <https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082>|
+|SQL|[](https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=youtu.be)<br>(ER Diagrams towards the end of the video are optional)|- <https://www.hackerrank.com/domains/sql>- <https://www.w3schools.com/sql/exercise.asp>- <https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082>|
 |Week 3: Databases and SQL for Data Science with Python|String Pattern, Ranges and Operations on Sets<br><https://www.coursera.org/learn/sql-data-science/lecture/UPbqw/using-string-patterns-and-ranges>|<https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%201%20(String%20Patterns%2C%20Ranges%2C%20Sorting%20and%20Grouping).PNG>|
 ||Functions, Multiple Tables and Sub-Queries<br><https://www.coursera.org/learn/sql-data-science/lecture/0bRtQ/built-in-database-functions>|- Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB>- Course Lab 2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB%202>- <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%202%20(Functions%2C%20Sub-Queries%2C%20Multiple%20Tables).PNG>|
 |Week 4: Database and SQL for Data Science with Python|Methods and Tools to access Database with Python |- <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/quiz%201(Database%20access%20from%20Python).PNG>- Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%201>- Course Lab2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%202>|
@@ -421,9 +421,7 @@ Quick Review
 
 ## Kaggle Resources
 <https://www.coursera.org/learn/competitive-data-science#syllabus>
-###
-### **Congrats!**
-###
-### Once you have made till here, you can jump on to solving Kaggle
-### and taking up a bundle of Data Science projects!
-![](Aspose.Words.a0db8365-c39d-4caf-89d9-63e4f89bbd9b.002.png)
+
+## Congrats!
+
+Once you have made till here, you can jump on to solving Kaggle and taking up a bundle of Data Science projects!
