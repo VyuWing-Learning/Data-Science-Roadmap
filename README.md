@@ -16,7 +16,7 @@
 |Week 3: Databases and SQL for Data Science with Python|String Pattern, Ranges and Operations on Sets [Video](https://www.coursera.org/learn/sql-data-science/lecture/UPbqw/using-string-patterns-and-ranges)|[Sorting & Grouping Problem](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%201%20(String%20Patterns%2C%20Ranges%2C%20Sorting%20and%20Grouping).PNG)|
 ||Functions, Multiple Tables and Sub-Queries [Video](https://www.coursera.org/learn/sql-data-science/lecture/0bRtQ/built-in-database-functions)| [Course Lab 1](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB) [Course Lab 2](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB%202) [Course Lab 3](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%202%20(Functions%2C%20Sub-Queries%2C%20Multiple%20Tables).PNG)|
 |Week 4: Database and SQL for Data Science with Python|Methods and Tools to access Database with Python |[Quiz](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/quiz%201(Database%20access%20from%20Python).PNG) [Course Lab 1](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%201) [Course Lab2](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%202)|
-|Week 5: Database and SQL for Data Science with Python|Hands on SQL Experience with Real world Data|[Assignment](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%204/Assignment)|
+|Week 5: Database and SQL for Data Science with Python|Hands-on SQL Experience with Real-world Data|[Assignment](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%204/Assignment)|
 |SQL Project View|Take a Look at the Project Level Implementation of SQL| [College-ERP](https://github.com/samarth-p/College-ERP) <br/> [ansql](https://github.com/honza/anosql)|
 
 # Excel for Reference
@@ -75,8 +75,8 @@
 | :-: | :-: | :-: |
 |Classes and Objects| [Quiz 1](https://www.proprofs.com/quiz-school/story.php?title=mjqyoda1mqr4a4) [Quiz 2](https://www.sanfoundry.com/python-questions-answers-classes-objects-1/)| [Python Classes and Objects](https://www.geeksforgeeks.org/python-classes-and-objects/)|
 |Attributes & Constructors|[Quiz](https://www.techbeamers.com/online-python-quiz-beginners-classes-objects)| [Python Class Attributes](https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide) [Class Instance Attributes](https://www.geeksforgeeks.org/class-instance-attributes-python) [Constructors in Python](https://www.geeksforgeeks.org/constructors-in-python)|
-|Inheritance| [Quiz 1](https://quizforexam.com/python-inheritance-quiz) [Quiz 2](https://www.goskills.com/Course/Intro-Python/Lesson/2354/Class-Inheritance/Quiz>) [Quiz 3](https://letsfindcourse.com/technical-questions/python-mcq-questions/inheritance-mcq-in-python>) | [Inheritance example](https://www.geeksforgeeks.org/oop-in-python-set-3-inheritance-examples-of-object-issubclass-and-super) [Pythong Inheritance](https://www.techbeamers.com/python-inheritance) [Questions & Answers](https://www.sanfoundry.com/python-questions-answers-inheritance-2)|
-|Overloading| [Quiz 1](https://www.sanfoundry.com/python-interview-questions-answers-experienced) [Quiz 2](https://realpython.com/operator-function-overloading)| [Method Overloading](https://www.geeksforgeeks.org/python-method-overloading) [Overlaoding in Python](https://www.geeksforgeeks.org/operator-overloading-in-python)|
+|Inheritance| [Quiz 1](https://quizforexam.com/python-inheritance-quiz) [Quiz 2](https://www.goskills.com/Course/Intro-Python/Lesson/2354/Class-Inheritance/Quiz>) [Quiz 3](https://letsfindcourse.com/technical-questions/python-mcq-questions/inheritance-mcq-in-python>) | [Inheritance example](https://www.geeksforgeeks.org/oop-in-python-set-3-inheritance-examples-of-object-issubclass-and-super) [Python Inheritance](https://www.techbeamers.com/python-inheritance) [Questions & Answers](https://www.sanfoundry.com/python-questions-answers-inheritance-2)|
+|Overloading| [Quiz 1](https://www.sanfoundry.com/python-interview-questions-answers-experienced) [Quiz 2](https://realpython.com/operator-function-overloading)| [Method Overloading](https://www.geeksforgeeks.org/python-method-overloading) [Overloading in Python](https://www.geeksforgeeks.org/operator-overloading-in-python)|
 |Overriding|[Quiz 1](https://data-flair.training/blogs/python-inheritance)|[Method Overriding in Python](https://www.geeksforgeeks.org/method-overriding-in-python)|
 |Polymorphism|[Quiz 1](https://www.sanfoundry.com/python-questions-answers-polymorphism)| [Theory 1](https://www.programiz.com/python-programming/polymorphism) [Theory 2](https://www.geeksforgeeks.org/polymorphism-in-python)|
 |Data hiding| [Quiz 1](https://www.sanfoundry.com/python-questions-answers-encapsulation) [Quiz 2](https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction)|[Data hiding and object printing](https://www.geeksforgeeks.org/object-oriented-programming-in-python-set-2-data-hiding-and-object-printing)|
@@ -110,7 +110,7 @@
 |**Topic**|**Course/Tutorial**|**Exercises**|
 | :-: | :-: | :-: |
 |NumPy|[Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI)| [Exercise 1](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) [Exercise 2](https://skillvalue.com/en/quiz/python/numpy-quiz-medium-level) [Quiz](https://letsfindcourse.com/data-science/python-numpy-mcq-questions)|
-|Pandas|[Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)| [Exercise 1](https://github.com/guipsamora/pandas_exercises) [Exzercise 2](https://data-flair.training/blogs/python-pandas-quiz) [Quiz](https://quizizz.com/admin/quiz/5eb11fe9a0a897001b1eedcf/python-pandas-) [Problems](https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions)|
+|Pandas|[Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)| [Exercise 1](https://github.com/guipsamora/pandas_exercises) [Exercise 2](https://data-flair.training/blogs/python-pandas-quiz) [Quiz](https://quizizz.com/admin/quiz/5eb11fe9a0a897001b1eedcf/python-pandas-) [Problems](https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions)|
 |Matplotlib|[Tutorial](https://www.youtube.com/watch?v=yZTBMMdPOww) |[Quiz](https://www.w3resource.com/graphics/matplotlib) |
 
 
@@ -120,7 +120,7 @@
 
 |**Topic**|**Practice Resource**|**Coding Question**|
 | :-: | :-: | :-: |
-|Statistics|[Course](https://classroom.udacity.com/courses/st101)|[Statistics Interview Qiestions](https://analyticsindiamag.com/40-interview-questions-on-statistics-for-data-scientists/)|
+|Statistics|[Course](https://classroom.udacity.com/courses/st101)|[Statistics Interview Questions](https://analyticsindiamag.com/40-interview-questions-on-statistics-for-data-scientists/)|
 |Probability Advanced|[Theory](https://www.khanacademy.org/math/statistics-probability) |[40 Probability questions](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists)|
 
 ## Week 6
@@ -149,7 +149,7 @@ Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/lea
 ||Unsupervised Learning|||
 ||Linear Regression with One Variable- Cost Function- Gradient Descent| [Linear Regression without Library in Python](https://github.com/monash128/Linear-Regression-from-scratch-in-Python) <br/> [One variable Linear Regression](https://github.com/MChavoshi96/one-variable-linear-regression) <br/> [One variable Linear Regressions (Advanced)](https://github.com/JayMehta97/One-Variable-Linear-Regression)| Learn EDA before codes <br/> [EDA 1](https://github.com/ejaz22/eda)(EDA Methods Code) <br/> [EDA 2](https://github.com/code4kunal/eda-with-python)(EDA Project) <br/> [Data Analysis](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning#syllabus)|
 ||Linear Algebra Review- Vector Arithmetic Operations||Do a quick review as you have done a detailed one initially|
-|Week 2: Andrew NG Stanford Machine Learning|Linear Regression with multiple variables- Multiple Features- Gradient Descent for Multiple Variables- Polynomial Regression- Normal Equation- Non Invertibility|| [ML without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries/tree/master/3.Multiple%20Linear%20Regression) <br/> [ML using libraries](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Multiple%20Linear%20Regression.ipynb) <br/> [Project](https://github.com/sanithps98/Automobile-Dataset-Analysis)|
+|Week 2: Andrew NG Stanford Machine Learning|Linear Regression with multiple variables- Multiple Features- Gradient Descent for Multiple Variables- Polynomial Regression- Normal Equation- Non-Invertibility|| [ML without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries/tree/master/3.Multiple%20Linear%20Regression) <br/> [ML using libraries](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Multiple%20Linear%20Regression.ipynb) <br/> [Project](https://github.com/sanithps98/Automobile-Dataset-Analysis)|
 
 
 ## Week 8
@@ -177,7 +177,7 @@ Based on what you have Learned, conduct the following project: [Link](https://gi
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 7: Andrew NG Stanford Machine Learning|Support Vector Machines <br/>Optimisation <br/>Large Margin Intuition <br/>Underlying Mathematics <br/>Kernels| [SVM using Library 1](https://github.com/cperales/SupportVectorMachine) <br/> [SVM using Library 2](https://github.com/AmmirMahdi/Support-Vector-Machine-With-Python) <br/> [SVM without Library](https://github.com/CihanBosnali/Support-Vector-Machine-without-ML-libraries) |
+|Week 7: Andrew NG Stanford Machine Learning|Support Vector Machines <br/>Optimization <br/>Large Margin Intuition <br/>Underlying Mathematics <br/>Kernels| [SVM using Library 1](https://github.com/cperales/SupportVectorMachine) <br/> [SVM using Library 2](https://github.com/AmmirMahdi/Support-Vector-Machine-With-Python) <br/> [SVM without Library](https://github.com/CihanBosnali/Support-Vector-Machine-without-ML-libraries) |
 
 
 ## Week 9
@@ -186,7 +186,7 @@ Based on what you have Learned, conduct the following project: [Link](https://gi
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
 |Week 1: Applied Data Science Course|Intro to SciKit Learn| [Environment Setup](https://github.com/PythonWorkshop/intro-to-sklearn) <br/> [Code Tutorial](https://github.com/mmmayo13/scikit-learn-classifiers) [Project](https://github.com/sixhobbits/sklearn-intro) |
-|Week 1: Applied Data Science Course|K Nearest Neighbors| [KNN from sratch](https://github.com/sagarmk/Knn-from-scratch) <br/> [KNN using SKLearn](https://github.com/jakemath/KNN-SKLearn) <br/> [UCI Glass detection](https://github.com/aaqibqadeer/UCI-glass-detection)|
+|Week 1: Applied Data Science Course|K Nearest Neighbors| [KNN from scratch](https://github.com/sagarmk/Knn-from-scratch) <br/> [KNN using SKLearn](https://github.com/jakemath/KNN-SKLearn) <br/> [UCI Glass detection](https://github.com/aaqibqadeer/UCI-glass-detection)|
 |Week 2: Applied Data Science Course|Introduction to Supervised Learning||
 |Week 2: Applied Data Science Course|Overfitting and Underfitting||
 |Week 2: Applied Data Science Course|Supervised Learning: Datasets||
@@ -213,7 +213,7 @@ Applied Data Science Course [Link](https://www.coursera.org/learn/python-machine
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
 |Week 4: Applied Data Science Course|Random Forests| [Random forest without library](https://github.com/harrypnh/random-forest-from-scratch) <br/> [Random forest Classifier](https://github.com/mahesh147/Random-Forest-Classifier) |
-|Week 4: Applied Data Science Course|Dimensionality Reduction and Manifold Learning| [Good Read](https://jakevdp.github.io/PythonDataScienceHandbook/05.10-manifold-learning.html) <br/> [Dimensionlaity reduction and classification on Hyperspectral images](https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python) |
+|Week 4: Applied Data Science Course|Dimensionality Reduction and Manifold Learning| [Good Read](https://jakevdp.github.io/PythonDataScienceHandbook/05.10-manifold-learning.html) <br/> [Dimensionality reduction and classification on Hyperspectral images](https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python) |
 
 
 ## Week 12
@@ -238,7 +238,7 @@ Quick Review
 ||Support Vector Machine|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 |Week 4: Machine Learning With Python|k-Means Clustering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 ||Hierarchical Clustering| [Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM)  [](https://github.com/shubhamjha97/hierarchical-clustering) |
-||Density Based Clustering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+||Density-Based Clustering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 |Week 5: Machine Learning With Python|Content based Recommendation Engines- Recommender Systems- Collaborative Filtering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 |Week 6: Machine Learning With Python|Course Project|
 
@@ -250,7 +250,7 @@ Quick Review
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
 |Week 4: Andrew NG Stanford Machine Learning|Neural Networks: Representation- Non-Linear Hypothesis- Model Representation- Intuitions|[Getting used to Neural nets](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises) |
-|Week 5: Andrew NG Stanford Machine Learning|Neural Networks: Learning- Cost Function- Backpropagation- Gradient Checking- Random Initialisation- Autonomous Driving|[Deep Learning for Beginners](https://github.com/PacktPublishing/Python-Deep-Learning-for-Beginners-) |
+|Week 5: Andrew NG Stanford Machine Learning|Neural Networks: Learning- Cost Function- Backpropagation- Gradient Checking- Random Initialization- Autonomous Driving|[Deep Learning for Beginners](https://github.com/PacktPublishing/Python-Deep-Learning-for-Beginners-) |
 |Week 6: Andrew NG Stanford Machine Learning|Machine Learning System Design- Evaluating Hypothesis- Model Selection- Train/Validation/Test Sets- Bias vs. Variance- Regularization- Learning Curves|[Machine Learning Systems design](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)|
 
 
@@ -260,7 +260,7 @@ Quick Review
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 8: Andrew NG Stanford Machine Learning|Unsupervised Learning <br/>Introduction <br/>K-means <br/>Optimisation Objective <br/>Initialisation <br/>Picking Clusters| [Handson unsupervised learning](https://github.com/aapatel09/handson-unsupervised-learning) <br/> [Unsupervised Learning](https://github.com/srp98/Unsupervised-Learning) <br/> [Unsupervised learning without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries) |
+|Week 8: Andrew NG Stanford Machine Learning|Unsupervised Learning <br/>Introduction <br/>K-means <br/>Optimization Objective <br/>Initialization <br/>Picking Clusters| [Handson unsupervised learning](https://github.com/aapatel09/handson-unsupervised-learning) <br/> [Unsupervised Learning](https://github.com/srp98/Unsupervised-Learning) <br/> [Unsupervised learning without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries) |
 ||Dimensionality Reduction <br/>Data Compression <br/>Visualization <br/>PCA| [Dataset Dimensionality reduction in Python](https://github.com/lucko515/dataset-dimensionality-reduction-python) <br/> [Complete Project](https://github.com/gavr97/dimensionality-reduction) |
 |Week 9: Andrew NG Stanford Machine Learning|Anomaly Detection <br/>Gaussian Distribution <br/>Anomaly Detection vs Supervised Learning- Choosing Features- Multivariate Gaussian| [Anamoly Detection](https://github.com/aqibsaeed/Anomaly-Detection/blob/master/Anomaly%20Detection.ipynb) |
 ||Recommender Systems <br/>Content Based Recommendations <br/>Collaborative Filtering <br/>Vectorization|[Amazon Product Recommender System](https://github.com/mandeep147/Amazon-Product-Recommender-System) |
@@ -272,10 +272,10 @@ Quick Review
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 1: Neural Networks and Deep Learning| What are the neural network and deep learning? <br/>Supervised Learning with Neural Networks|[Course Practice Problem](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1)|
+|Week 1: Neural Networks and Deep Learning| What are neural networks and deep learning? <br/>Supervised Learning with Neural Networks|[Course Practice Problem](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1)|
 |Week 2: Neural Networks and Deep Learning| Binary Classification <br/>Logistic Regression <br/>Cost Function <br/>Gradient Descent <br/>Derivatives <br/>Computation Graph|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week2/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv4.ipynb)|
 |Week 2: Neural Networks and Deep Learning| Vectorization <br/>Broadcasting in Python <br/>Getting Started with Jupyter Notebook|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week2/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)|
-|Week 3: Neural Networks and Deep Learning| Neural network representation <br/>Vectorising <br/>Activation Functions <br/>Non Linear Activation Functions <br/>Derivation of Activation Functions <br/>Gradient Descent for Neural Networks <br/>Backpropagation <br/>Random Initialisation|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week3/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv4.ipynb)|
+|Week 3: Neural Networks and Deep Learning| Neural network representation <br/>Vectorising <br/>Activation Functions <br/>Non Linear Activation Functions <br/>Derivation of Activation Functions <br/>Gradient Descent for Neural Networks <br/>Backpropagation <br/>Random Initialization|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week3/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv4.ipynb)|
 |Week 4: Neural Networks and Deep Learning| Forward Propagation <br/>Deep PresentationsParameters vs Hyperparameters|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/tree/master/Neural-networks-Deep-learning/Week4)|
 
 ## Week 16
@@ -285,9 +285,9 @@ Quick Review
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
 |Week 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Train/Dev/Test <br/>Bias/Variance| [Course Practice Problem 1](https://www.coursera.org/learn/deep-neural-network/home/week/1) <br/> [Course Practice Problem 2](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Initialization.ipynb)|
-|Week 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Regularization <br/>Importance of Regularization <br/>Dropout <br/>Normalizing Input <br/>Vanishing/Exploding Gradients <br/>Weight Initialisation <br/>Gradient Checking|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Regularization.ipynb)|
+|Week 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Regularization <br/>Importance of Regularization <br/>Dropout <br/>Normalizing Input <br/>Vanishing/Exploding Gradients <br/>Weight Initialization <br/>Gradient Checking|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Regularization.ipynb)|
 |Week 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Mini Batch Gradient Descent <br/>Bias Correction <br/>Momentum <br/>RMSProp|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Gradient%2BChecking.ipynb)|
-|Week 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Adam Optimisation <br/>Learning Rate Decay <br/>Local Optima|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%202/Optimization%2Bmethods.ipynb)|
+|Week 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Adam optimization <br/>Learning Rate Decay <br/>Local Optima|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%202/Optimization%2Bmethods.ipynb)|
 |Week 3: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|Hyperparameter tuning| [Course Practice Problem 1](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms/blob/master/HPO_Regression.ipynb) <br/> [Course Practice Problem 2](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms/blob/master/HPO_Classification.ipynb)|
 |Week 3: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization| Tuning <br/>Picking Hyperparammeters <br/>Normalising Activators <br/>Fitting Batch Norm- Softmax|[Course Practice Problem](https://github.com/abhishek-yadav-cse/multiclass-classification/blob/master/MedicalAbstractClasssification.ipynb)|
 
