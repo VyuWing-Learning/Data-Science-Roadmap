@@ -410,7 +410,7 @@ Quick Review
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - Free Online
 
 ## Kaggle Resources
-[](https://www.coursera.org/learn/competitive-data-science#syllabus)
+[Click](https://www.coursera.org/learn/competitive-data-science#syllabus)
 
 ## Congrats!
 
