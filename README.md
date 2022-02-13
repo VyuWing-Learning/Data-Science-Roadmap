@@ -2,11 +2,7 @@
 
 **Things to keep in mind while going through**
 
-- The document can be read for various tables describing the content respectively. For each table, we have topics that need to be learned, links from where it needs to be learned alongside additional exercises/material that follows.
-
 - The courses that we describe are available for free to audit and need not be bought. This document is in no way any paid promotion of the described courses, we recommend them based on community feedback and experience. Similar applies to the links/exercises we follow.
-
-- The courses, being highly rated in the community are found to provide a good understanding, however, in the cases otherwise, we in no manner suggest against looking/searching for other similar videos that help the candidate's understanding.
 
 - The Week Structure we illustrate may not be in complete balance with the candidate's timeline. Therefore, in the cases like these, we advise considering the stipulated time frame 1 week/topic to be more than 1 (maybe 2 weeks/topic) as we strongly advise to not break the structure of course action.
 
@@ -16,12 +12,12 @@
 
 |Topic|Topic/Tutorial|Exercises|
 | :-: | :-: | :-: |
-|SQL|[Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=youtu.be)(ER Diagrams towards the end of the video are optional)|[Exercise 1](https://www.hackerrank.com/domains/sql) [Exercise 2](https://www.w3schools.com/sql/exercise.asp) [Exercise 3](https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082)|
+|SQL|[Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=youtu.be) (ER Diagrams towards the end of the video are optional)|[Exercise 1](https://www.hackerrank.com/domains/sql) [Exercise 2](https://www.w3schools.com/sql/exercise.asp) [Exercise 3](https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082)|
 |Week 3: Databases and SQL for Data Science with Python|String Pattern, Ranges and Operations on Sets [Video](https://www.coursera.org/learn/sql-data-science/lecture/UPbqw/using-string-patterns-and-ranges)|[Sorting & Grouping Problem](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%201%20(String%20Patterns%2C%20Ranges%2C%20Sorting%20and%20Grouping).PNG)|
 ||Functions, Multiple Tables and Sub-Queries [Video](https://www.coursera.org/learn/sql-data-science/lecture/0bRtQ/built-in-database-functions)| [Course Lab 1](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB) [Course Lab 2](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB%202) [Course Lab 3](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%202%20(Functions%2C%20Sub-Queries%2C%20Multiple%20Tables).PNG)|
 |Week 4: Database and SQL for Data Science with Python|Methods and Tools to access Database with Python |[Quiz](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/quiz%201(Database%20access%20from%20Python).PNG) [Course Lab 1](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%201) [Course Lab2](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%202)|
 |Week 5: Database and SQL for Data Science with Python|Hands on SQL Experience with Real world Data|[Assignment](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%204/Assignment)|
-|SQL Project View|Take a Look at the Project Level Implementation of SQL| [College-ERP](https://github.com/samarth-p/College-ERP) [ansql](https://github.com/honza/anosql)|
+|SQL Project View|Take a Look at the Project Level Implementation of SQL| [College-ERP](https://github.com/samarth-p/College-ERP) <br/> [ansql](https://github.com/honza/anosql)|
 
 # Excel for Reference
 
@@ -195,7 +191,7 @@ Based on what you have Learned, conduct the following project: [Link](https://gi
 |Week 2: Applied Data Science Course|Overfitting and Underfitting||
 |Week 2: Applied Data Science Course|Supervised Learning: Datasets||
 |Week 2: Applied Data Science Course|K Nearest Neighbours||
-|Week 2: Applied Data Science Course|Linear Regression: Least Squares| [Bottom Housing Problem - Linear Regression](https://github.com/jorgesleonel/linear-regression/blob/master/Boston%2BHousing%2BPricing%2BLinear%2BRegression.ipynb) [Simple Linear Regression](https://github.com/raxshah/Simple-Linear-Regression-Python) |
+|Week 2: Applied Data Science Course|Linear Regression: Least Squares| [Boston Housing Problem - Linear Regression](https://github.com/jorgesleonel/linear-regression/blob/master/Boston%2BHousing%2BPricing%2BLinear%2BRegression.ipynb) [Simple Linear Regression](https://github.com/raxshah/Simple-Linear-Regression-Python) |
 |Week 2: Applied Data Science Course|Linear Regression: Lasso| [Lasso Regression without library](https://github.com/mihirchakradeo/LassoRegression)  [Lasso Regression with library](https://github.com/kirenz/lasso-regression) |
 |Week 2: Applied Data Science Course|Linear Regression: Polynomial| [Polynomial Regression without Library](https://github.com/pickus91/Polynomial-Regression-From-Scratch) |
 
@@ -232,18 +228,18 @@ Quick Review
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 1: Machine Learning With Python|Python for Machine Learning Intro|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Supervised vs Unsupervised|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 2: Machine Learning With Python|Linear Regression- Intro- Model Evaluation- Evaluation Metrics|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Non-Linear Regression|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 3: Machine Learning With Python|K-Nearest Neighbours- Intro to Classification- KNN- Evaluation Metrics|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Decision Trees- Intro- Building Decision Trees|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Logistic Regression- Intro- Logistic vs Linear Regression- Logistic Regression training|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Support Vector Machine|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 4: Machine Learning With Python|k-Means Clustering|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Hierarchical Clustering| [Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM)  [](https://github.com/shubhamjha97/hierarchical-clustering) |
-||Density Based Clustering|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 5: Machine Learning With Python|Content based Recommendation Engines- Recommender Systems- Collaborative Filtering|[Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+|Week 1: Machine Learning With Python|Python for Machine Learning Intro|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+||Supervised vs Unsupervised|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+|Week 2: Machine Learning With Python|Linear Regression- Intro- Model Evaluation- Evaluation Metrics|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+||Non-Linear Regression|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+|Week 3: Machine Learning With Python|K-Nearest Neighbours- Intro to Classification- KNN- Evaluation Metrics|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+||Decision Trees- Intro- Building Decision Trees|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+||Logistic Regression- Intro- Logistic vs Linear Regression- Logistic Regression training|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+||Support Vector Machine|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+|Week 4: Machine Learning With Python|k-Means Clustering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+||Hierarchical Clustering| [Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM)  [](https://github.com/shubhamjha97/hierarchical-clustering) |
+||Density Based Clustering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+|Week 5: Machine Learning With Python|Content based Recommendation Engines- Recommender Systems- Collaborative Filtering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 |Week 6: Machine Learning With Python|Course Project|
 
 
@@ -316,7 +312,7 @@ Quick Review
 |Getting Started with Keras Modules|[Video](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)|
 |Keras Implementation Example (Classification Boilerplate Code)| [Video](https://www.youtube.com/watch?v=vF21cC-8G1U) [Code](https://github.com/bnsreenu/python_for_microscopists/blob/master/144_145_binary_classification_ROC_AUC.py)|
 |Step By Step Making model in Keras|[First Neural Network in Keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras) |
-|Binary Classification In Keras|[Code using ANN](https://github.com/rishanki/Binary_classification-Keras-ANN-)|
+|Binary Classification In Keras|[Code using NN](https://github.com/rishanki/Binary_classification-Keras-ANN-)|
 |Logistic Regression in Keras|[Code](https://github.com/tgjeon/Keras-Tutorials/blob/master/02_logistic_regression.ipynb)|
 |End to end deep learning|[Video](https://www.coursera.org/learn/machine-learning-projects/lecture/k0Klk/what-is-end-to-end-deep-learning) |
 |Neural Networks| [Code](https://github.com/tgjeon/Keras-Tutorials/blob/master/03_net.ipynb)  [Tutorial](https://github.com/tgjeon/Keras-Tutorials/blob/master/04_modern_net.ipynb)|
