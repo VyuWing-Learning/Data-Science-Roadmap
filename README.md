@@ -16,6 +16,7 @@ After multiple hours of research with a number of industry professionals current
 <br/><br/>
 The roadmap has been carefully and accurately broken down into a step by step action plan of theory and practice resources to make sure you never miss any aspect in your Data Science learning. 
 
+<br/>
 # Data Science Roadmap
 
 **Things to keep in mind while going through**
@@ -24,6 +25,7 @@ The roadmap has been carefully and accurately broken down into a step by step ac
 
 - The Week Structure we illustrate may not be in complete balance with the candidate's timeline. Therefore, in the cases like these, we advise considering the stipulated time frame 1 week/topic to be more than 1 (maybe 2 weeks/topic) as we strongly advise to not break the structure of course action.
 
+<br/>
 # SQL for Reference (MySQL)
 **Suggested Course [Link](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst)**
 
@@ -37,6 +39,7 @@ The roadmap has been carefully and accurately broken down into a step by step ac
 |Week 5: Database and SQL for Data Science with Python|Hands-on SQL Experience with Real-world Data|[Assignment](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%204/Assignment)|
 |SQL Project View|Take a Look at the Project Level Implementation of SQL| [College-ERP](https://github.com/samarth-p/College-ERP) <br/> [ansql](https://github.com/honza/anosql)|
 
+<br/>
 # Excel for Reference
 
 |Topic|Course/Tutorial|Exercises|
@@ -47,6 +50,7 @@ The roadmap has been carefully and accurately broken down into a step by step ac
 **Project to follow after completing Excel:**
 - [Data Analysis Project in MS Excel](https://github.com/harshtakrani007/Data-Analysis-Projects-in-MS-Excel)
 
+<br/>
 # Python Programming
 ## Week 1
 **Python Environment Setup**
@@ -100,6 +104,7 @@ The roadmap has been carefully and accurately broken down into a step by step ac
 |Data hiding| [Quiz 1](https://www.sanfoundry.com/python-questions-answers-encapsulation) [Quiz 2](https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction)|[Data hiding and object printing](https://www.geeksforgeeks.org/object-oriented-programming-in-python-set-2-data-hiding-and-object-printing)|
 |Regular Expression| [Quiz 1](https://quizizz.com/admin/quiz/57201781231c6fb53a106d13/regular-expressions-python) [Quiz 2](https://www.sanfoundry.com/python-questions-answers-regular-expressions) [Quiz 3](https://letsfindcourse.com/technical-questions/python-mcq-questions/regular-expressions-mcq-in-python)|[Regex Coding Problems](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-regex)|
 
+<br/>
 # Data Structures and Algorithms
 
 ## Week 3
@@ -122,6 +127,7 @@ The roadmap has been carefully and accurately broken down into a step by step ac
 |Searching Algorithms|[Quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-gq) | Practice from Hackerank given above [Additional Problems](https://www.sanfoundry.com/python-programming-examples-searching-sorting)|
 |Sorting Algorithms|[Quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-and-sorting-gq) ||
 
+<br/>
 # Databases
 
 ## Week 4
@@ -134,7 +140,7 @@ The roadmap has been carefully and accurately broken down into a step by step ac
 |Pandas|[Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)| [Exercise 1](https://github.com/guipsamora/pandas_exercises) [Exercise 2](https://data-flair.training/blogs/python-pandas-quiz) [Quiz](https://quizizz.com/admin/quiz/5eb11fe9a0a897001b1eedcf/python-pandas-) [Problems](https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions)|
 |Matplotlib|[Tutorial](https://www.youtube.com/watch?v=yZTBMMdPOww) |[Quiz](https://www.w3resource.com/graphics/matplotlib) |
 
-
+<br/>
 # Mathematics
 ## Week 5
 
@@ -153,11 +159,12 @@ The roadmap has been carefully and accurately broken down into a step by step ac
 |Multivariate Calculus(Skip Simple Neural Network and Simple Artificial Neural Network from Week 3)|[Theory](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning#syllabus) ||
 |PCA|[Theory](https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning) ||
 
+<br/>
 # Machine Learning
 ## Week 7
-**Course to follow**
+### Course to follow
 
-Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus)
+**Andrew NG Stanford Machine Learning Coursera** [Link](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus)
 
 **For this Course, all Exercises in Python: [Link](https://github.com/dibgerge/ml-coursera-python-assignments)**
 
@@ -174,9 +181,6 @@ Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/lea
 
 
 ## Week 8
-**Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus)**
-
-
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
@@ -217,7 +221,6 @@ Based on what you have Learned, conduct the following project: [Link](https://gi
 |Week 2: Applied Data Science Course|Linear Regression: Polynomial| [Polynomial Regression without Library](https://github.com/pickus91/Polynomial-Regression-From-Scratch) |
 
 ## Week 10
-**Applied Data Science Course [Link](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python#syllabus)**
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
@@ -229,7 +232,6 @@ Based on what you have Learned, conduct the following project: [Link](https://gi
 
 
 ## Week 11
-Applied Data Science Course [Link](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python#syllabus)
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
@@ -238,7 +240,7 @@ Applied Data Science Course [Link](https://www.coursera.org/learn/python-machine
 
 
 ## Week 12
-Quick Review
+### Quick Review
 
 [IBM's Machine Learning with python](https://www.coursera.org/learn/machine-learning-with-python)
 
@@ -326,6 +328,7 @@ Quick Review
 |Week 2: Structuring Machine Learning Projects|Learning from Multiple Tasks|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/WNPap/transfer-learning) |
 |Week 2: Structuring Machine Learning Projects|End to end deep learning|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/k0Klk/what-is-end-to-end-deep-learning) |
 
+<br/>
 # Keras
 
 ## Week 18
@@ -347,7 +350,7 @@ Quick Review
 |Learning Rate Decay|[Theory](https://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras)|
 |Convolutional Network|[Theory](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification)|
 
-
+<br/>
 # Neural Networks and Deep Learning with Keras:
 `The concepts shown below are covered in the previous sections of `
 
