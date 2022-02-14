@@ -242,7 +242,7 @@ Based on what you have Learned, conduct the following project: [Link](https://gi
 | :-: | :-: | :-: |
 |Week 1: Machine Learning With Python|Python for Machine Learning Intro|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 ||Supervised vs Unsupervised|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 2: Machine Learning With Python|Linear Regression- Intro- Model Evaluation- Evaluation Metrics|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+|Week 2: Machine Learning With Python|Linear Regression <br/> Model Evaluation <br/> Evaluation Metrics|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 ||Non-Linear Regression|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 |Week 3: Machine Learning With Python|K-Nearest Neighbours <br/> Intro to Classification <br/> KNN <br/> Evaluation Metrics|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 ||Decision Trees <br/> Building Decision Trees|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
