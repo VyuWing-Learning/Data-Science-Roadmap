@@ -12,8 +12,8 @@
 </p>
 <br/>
 
-After multiple hours of research with a number of industry professionals currently working as Data Scientists in Fortune 500 tech companies, we've aggregated all the best, free and open source learning material that they used to become a Data Scientist. 
-<br/>
+After multiple hours of research with a number of industry professionals currently working as Data Scientists in **Fortune 500** tech companies, we've aggregated all the best, **free and open source** learning material that they used to become a Data Scientist. 
+<br/><br/>
 The roadmap has been carefully and accurately broken down into a step by step action plan of theory and practice resources to make sure you never miss any aspect in your Data Science learning. 
 
 # Data Science Roadmap
