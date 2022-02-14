@@ -2,8 +2,8 @@
   <img width="100" src="https://i.ibb.co/hs6X5BJ/192pixelshomescreen-1.png" alt="VyuWing Learning">
 </p>
 
-<h3 align="center"> VyuWing Learning</h3>
-<h3 align="center"> Data Science Roadmap</h3>
+<h2 align="center"> VyuWing Learning</h3>
+<h2 align="center"> Data Science Roadmap</h3>
 
 ---
 
