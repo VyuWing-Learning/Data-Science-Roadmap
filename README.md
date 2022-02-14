@@ -147,9 +147,9 @@ Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/lea
 |Week 1: Andrew NG Stanford Machine Learning|What is Machine Learning|||
 ||Supervised Learning|||
 ||Unsupervised Learning|||
-||Linear Regression with One Variable- Cost Function- Gradient Descent| [Linear Regression without Library in Python](https://github.com/monash128/Linear-Regression-from-scratch-in-Python) <br/> [One variable Linear Regression](https://github.com/MChavoshi96/one-variable-linear-regression) <br/> [One variable Linear Regressions (Advanced)](https://github.com/JayMehta97/One-Variable-Linear-Regression)| Learn EDA before codes <br/> [EDA 1](https://github.com/ejaz22/eda)(EDA Methods Code) <br/> [EDA 2](https://github.com/code4kunal/eda-with-python)(EDA Project) <br/> [Data Analysis](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning#syllabus)|
-||Linear Algebra Review- Vector Arithmetic Operations||Do a quick review as you have done a detailed one initially|
-|Week 2: Andrew NG Stanford Machine Learning|Linear Regression with multiple variables- Multiple Features- Gradient Descent for Multiple Variables- Polynomial Regression- Normal Equation- Non-Invertibility|| [ML without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries/tree/master/3.Multiple%20Linear%20Regression) <br/> [ML using libraries](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Multiple%20Linear%20Regression.ipynb) <br/> [Project](https://github.com/sanithps98/Automobile-Dataset-Analysis)|
+||Linear Regression with One Variable <br/> Cost Function <br/> Gradient Descent| [Linear Regression without Library in Python](https://github.com/monash128/Linear-Regression-from-scratch-in-Python) <br/> [One variable Linear Regression](https://github.com/MChavoshi96/one-variable-linear-regression) <br/> [One variable Linear Regressions (Advanced)](https://github.com/JayMehta97/One-Variable-Linear-Regression)| Learn EDA before coding <br/> [EDA 1](https://github.com/ejaz22/eda)(EDA Methods Code) <br/> [EDA 2](https://github.com/code4kunal/eda-with-python)(EDA Project) <br/> [Data Analysis](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning#syllabus)|
+||Linear Algebra Review <br/> Vector Arithmetic Operations||Do a quick review as you have done a detailed one initially|
+|Week 2: Andrew NG Stanford Machine Learning|Linear Regression with multiple variables <br/> Multiple Features <br/> Gradient Descent for Multiple Variables <br/> Polynomial Regression <br/> Normal Equation <br/> Non-Invertibility|| [ML without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries/tree/master/3.Multiple%20Linear%20Regression) <br/> [ML using libraries](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Multiple%20Linear%20Regression.ipynb) <br/> [Project](https://github.com/sanithps98/Automobile-Dataset-Analysis)|
 
 
 ## Week 8
@@ -232,14 +232,14 @@ Quick Review
 ||Supervised vs Unsupervised|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 |Week 2: Machine Learning With Python|Linear Regression- Intro- Model Evaluation- Evaluation Metrics|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 ||Non-Linear Regression|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 3: Machine Learning With Python|K-Nearest Neighbours- Intro to Classification- KNN- Evaluation Metrics|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Decision Trees- Intro- Building Decision Trees|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Logistic Regression- Intro- Logistic vs Linear Regression- Logistic Regression training|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+|Week 3: Machine Learning With Python|K-Nearest Neighbours <br/> Intro to Classification <br/> KNN <br/> Evaluation Metrics|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+||Decision Trees <br/> Building Decision Trees|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+||Logistic Regression <br/> Logistic vs Linear Regression <br/> Logistic Regression training|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 ||Support Vector Machine|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 |Week 4: Machine Learning With Python|k-Means Clustering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 ||Hierarchical Clustering| [Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM)  [](https://github.com/shubhamjha97/hierarchical-clustering) |
 ||Density-Based Clustering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 5: Machine Learning With Python|Content based Recommendation Engines- Recommender Systems- Collaborative Filtering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
+|Week 5: Machine Learning With Python|Content based Recommendation Engines <br/> Recommender Systems <br/> Collaborative Filtering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
 |Week 6: Machine Learning With Python|Course Project|
 
 
@@ -249,9 +249,9 @@ Quick Review
 
 |**Course Section**|**Topic**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 4: Andrew NG Stanford Machine Learning|Neural Networks: Representation- Non-Linear Hypothesis- Model Representation- Intuitions|[Getting used to Neural nets](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises) |
-|Week 5: Andrew NG Stanford Machine Learning|Neural Networks: Learning- Cost Function- Backpropagation- Gradient Checking- Random Initialization- Autonomous Driving|[Deep Learning for Beginners](https://github.com/PacktPublishing/Python-Deep-Learning-for-Beginners-) |
-|Week 6: Andrew NG Stanford Machine Learning|Machine Learning System Design- Evaluating Hypothesis- Model Selection- Train/Validation/Test Sets- Bias vs. Variance- Regularization- Learning Curves|[Machine Learning Systems design](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)|
+|Week 4: Andrew NG Stanford Machine Learning|Neural Networks: Representation <br/> Non-Linear Hypothesis <br/> Model Representation <br/> Intuitions|[Getting used to Neural nets](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises) |
+|Week 5: Andrew NG Stanford Machine Learning|Neural Networks: Learning <br/> Cost Function <br/> Backpropagation <br/> Gradient Checking <br/> Random Initialization <br/> Autonomous Driving|[Deep Learning for Beginners](https://github.com/PacktPublishing/Python-Deep-Learning-for-Beginners-) |
+|Week 6: Andrew NG Stanford Machine Learning|Machine Learning System Design <br/> Evaluating Hypothesis <br/> Model Selection <br/> Bias vs. Variance <br/> Regularization <br/> Learning Curves|[Machine Learning Systems design](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)|
 
 
 ## Week 14
