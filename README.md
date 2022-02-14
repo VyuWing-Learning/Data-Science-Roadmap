@@ -29,7 +29,7 @@
 **Project to follow after completing Excel:**
 - [Data Analysis Project in MS Excel](https://github.com/harshtakrani007/Data-Analysis-Projects-in-MS-Excel)
 
-# Python for Machine Learning
+# Python Programming
 ## Week 1
 **Python Environment Setup**
 
@@ -82,6 +82,8 @@
 |Data hiding| [Quiz 1](https://www.sanfoundry.com/python-questions-answers-encapsulation) [Quiz 2](https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction)|[Data hiding and object printing](https://www.geeksforgeeks.org/object-oriented-programming-in-python-set-2-data-hiding-and-object-printing)|
 |Regular Expression| [Quiz 1](https://quizizz.com/admin/quiz/57201781231c6fb53a106d13/regular-expressions-python) [Quiz 2](https://www.sanfoundry.com/python-questions-answers-regular-expressions) [Quiz 3](https://letsfindcourse.com/technical-questions/python-mcq-questions/regular-expressions-mcq-in-python)|[Regex Coding Problems](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-regex)|
 
+# Data Structures and Algorithms
+
 ## Week 3
 **Tutorial to Follow [Link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)**
 
@@ -102,6 +104,7 @@
 |Searching Algorithms|[Quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-gq) | Practice from Hackerank given above [Additional Problems](https://www.sanfoundry.com/python-programming-examples-searching-sorting)|
 |Sorting Algorithms|[Quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-and-sorting-gq) ||
 
+# Databases
 
 ## Week 4
 [Introduction to Database](https://www.youtube.com/watch?v=wR0jg0eQsZA)
@@ -114,7 +117,7 @@
 |Matplotlib|[Tutorial](https://www.youtube.com/watch?v=yZTBMMdPOww) |[Quiz](https://www.w3resource.com/graphics/matplotlib) |
 
 
-
+# Mathematics
 ## Week 5
 
 
@@ -132,7 +135,7 @@
 |Multivariate Calculus(Skip Simple Neural Network and Simple Artificial Neural Network from Week 3)|[Theory](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning#syllabus) ||
 |PCA|[Theory](https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning) ||
 
-# Recommended Courses
+# Machine Learning
 ## Week 7
 **Course to follow**
 
@@ -267,6 +270,8 @@ Quick Review
 |Week 10: Andrew NG Stanford Machine Learning|Refer to course Videos||
 |Week 11: Andrew NG Stanford Machine Learning|Refer to course Videos||
 
+# Deep Learning
+
 ## Week 15
 **[Continue with Deeplearning.ai specialization](https://www.coursera.org/specializations/deep-learning#courses)**
 
@@ -303,8 +308,9 @@ Quick Review
 |Week 2: Structuring Machine Learning Projects|Learning from Multiple Tasks|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/WNPap/transfer-learning) |
 |Week 2: Structuring Machine Learning Projects|End to end deep learning|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/k0Klk/what-is-end-to-end-deep-learning) |
 
+# Keras
+
 ## Week 18
-**Keras**
 
 
 |**Topic**|**Tutorial**|
@@ -324,7 +330,7 @@ Quick Review
 |Convolutional Network|[Theory](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification)|
 
 
-### Neural Networks and Deep Learning with Keras:
+# Neural Networks and Deep Learning with Keras:
 `The concepts shown below are covered in the previous sections of `
 
 - Neural Networks and Deep Learning
