@@ -1,425 +1,374 @@
+# Web Development Roadmap
+
 <p align="center">
   <img width="100" src="https://i.ibb.co/hs6X5BJ/192pixelshomescreen-1.png" alt="VyuWing Learning">
 </p>
 
 <h3 align="center"> VyuWing Learning</h3>
-<h3 align="center"> Data Science Roadmap</h3>
+<h3 align="center"> Web Development Roadmap(Frontend)</h3>
 
 ***
 
 <p align="center">
-  Roadmap to becoming an Industry Leading Data Scientist.
+  Roadmap to becoming an Industry Leading Web Developer (Frontend).
 </p>
 <br/>
 
-After multiple hours of research with a number of industry professionals currently working as Data Scientists in **Fortune 500** tech companies, we've aggregated all the best, **free and open source** learning material that they used to become a Data Scientist. 
+After multiple hours of research with a number of industry professionals currently working as Web Developer in the industry, we've aggregated all the best, **free and open source** learning material that they used to become a Web Developer. 
 <br/><br/>
-The roadmap has been carefully and accurately broken down into a step by step action plan of theory and practice resources to make sure you never miss any aspect in your Data Science learning. 
-
-# Data Science Roadmap
-
-**Things to keep in mind while going through**
-
-- The courses that we describe are available for free to audit and need not be bought. This document is in no way any paid promotion of the described courses, we recommend them based on community feedback and experience. Similar applies to the links/exercises we follow.
-
-- The Week Structure we illustrate may not be in complete balance with the candidate's timeline. Therefore, in the cases like these, we advise considering the stipulated time frame 1 week/topic to be more than 1 (maybe 2 weeks/topic) as we strongly advise to not break the structure of course action.
-
-# SQL for Reference (MySQL)
-**Suggested Course [Link](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst)**
+The roadmap has been carefully and accurately broken down into a step by step action plan of theory and practice resources to make sure you never miss any aspect in your Web Development learning. 
 
 
-|Topic|Topic/Tutorial|Exercises|
-| :-: | :-: | :-: |
-|SQL|[Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=youtu.be) (ER Diagrams towards the end of the video are optional)|[Exercise 1](https://www.hackerrank.com/domains/sql) [Exercise 2](https://www.w3schools.com/sql/exercise.asp) [Exercise 3](https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082)|
-|Week 3: Databases and SQL for Data Science with Python|String Pattern, Ranges and Operations on Sets [Video](https://www.coursera.org/learn/sql-data-science/lecture/UPbqw/using-string-patterns-and-ranges)|[Sorting & Grouping Problem](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%201%20(String%20Patterns%2C%20Ranges%2C%20Sorting%20and%20Grouping).PNG)|
-||Functions, Multiple Tables and Sub-Queries [Video](https://www.coursera.org/learn/sql-data-science/lecture/0bRtQ/built-in-database-functions)| [Course Lab 1](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB) [Course Lab 2](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB%202) [Course Lab 3](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%202%20(Functions%2C%20Sub-Queries%2C%20Multiple%20Tables).PNG)|
-|Week 4: Database and SQL for Data Science with Python|Methods and Tools to access Database with Python |[Quiz](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/quiz%201(Database%20access%20from%20Python).PNG) [Course Lab 1](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%201) [Course Lab2](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%202)|
-|Week 5: Database and SQL for Data Science with Python|Hands-on SQL Experience with Real-world Data|[Assignment](https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%204/Assignment)|
-|SQL Project View|Take a Look at the Project Level Implementation of SQL| [College-ERP](https://github.com/samarth-p/College-ERP) <br/> [ansql](https://github.com/honza/anosql)|
+## Things to keep in mind while going through
 
-# Excel for Reference
+- The document can be read for various tables describing the content respectively. For each table, we have topics that need to be learnt, links from where it needs to be learnt alongside additional exercises/material that follows.
 
-|Topic|Course/Tutorial|Exercises|
-| :-: | :-: | :-: |
-|Excel| [Tutorial 1](https://www.youtube.com/playlist?list=PLmejDGrsgFyCZ4YC5s8mgdQztj7zt5to5) <br/> [Tutorial 2](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst#syllabus)|[Excel Interview Questions](https://www.edureka.co/blog/interview-questions/excel-interview-questions)|
-|Excel Advanced(Preferred if your Job Description requires sound knowledge of Excel)| [Tutorial 1](https://www.youtube.com/watch?v=UPABcYhugZk&list=PLm8I8moAHiH2kkq0S9XGvIbPODrHzXRp6) <br/> [Tutorial 2](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1) | [Excel VBA for Creative problem solving](https://github.com/Brucewuzhang/excel-vba-for-creative-problem-solving/tree/master/course%201) |
+- The tutorials/courses that we describe are available for free and need not be bought. This document is in no way any paid promotion of the described tutorials/courses, we recommend them based on community feedback and experience. Similar applies for the links/exercises we follow.
 
-**Project to follow after completing Excel:**
-- [Data Analysis Project in MS Excel](https://github.com/harshtakrani007/Data-Analysis-Projects-in-MS-Excel)
+- The tutorials/courses, being highly rated in the community are found to provide a good understanding, however, in the cases otherwise, we in no manner suggest against looking/searching for other similar videos that helps the candidate's understanding.
 
-# Python Programming
+- The Week Structure we illustrate may not be in complete balance with the candidate's timeline. Therefore, in the cases as these, we advise to consider the stipulated time frame 1 week/topic to be more than 1 (maybe 2 weeks/topic) as we strongly advise to not break the structure of tutorials/course action.
+
+- This roadmap assumes that you have a prior understanding of any programming language. 
+
+# Git for Reference
+
+[Suggested Tutorials]: <https://www.youtube.com/watch?v=8JJ101D3knE>
+
+Exercises: <https://www.w3schools.com/git/exercise.asp>
+
+Advanced Git Exercises: <https://www.rithmschool.com/courses/git/git-github-advanced-git-exercises>
+
+<https://github.com/nnja/advanced-git/blob/master/exercises/Exercise8-ForksAndRemoteRepos.md>
+
+
+# Object Oriented Programming
 ## Week 1
-**Python Environment Setup**
+NOTE: You can code in any prefered language. 
 
-[Windows](https://www.youtube.com/watch?v=x1cbYa2SSlE)
-
-[Linux 1](https://www.youtube.com/watch?v=LwORmcaI69w)
-
-[Linux 2](https://www.youtube.com/watch?v=g5jxJE0LJYA)
-
-**Tutorial to follow**
-- [Tutorial](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
-
-**Coding Questions**
-- [Hackerrank Easy+Medium+hard](https://www.hackerrank.com/domains/python)
-- [Hackerrank Easy+Medium](https://www.hackerrank.com/domains/mathematics) 
+Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst>
+### **Tutorial to Follow** 
+<https://www.youtube.com/watch?v=6T_HgnjoYwM>
 
 
-|**Topic**|**Practice Resource**|**Coding Question**|
-| :-: | :-: | :-: |
-|Variables| [Quiz 1](https://realpython.com/quizzes/python-variables/) [Quiz 2](https://www.sanfoundry.com/python-questions-answers-variable-names/) [Quiz 3](https://www.sanfoundry.com/python-questions-answers-global-local-variables-1/) [Quiz 4](https://www.sanfoundry.com/python-questions-answers-global-local-variables-2/) |Practice from Hackerrank given above|
-|Conditional Statements| [Quiz 1](https://realpython.com/quizzes/python-conditional-statements/) [Quiz 2](https://letsfindcourse.com/technical-questions/python-mcq-questions/conditionals-and-loops-1) (Solve Conditional Statements Questions only)|Practice from Hackerrank given above|
-|Functions| [Quiz 1](https://pynative.com/python-functions-quiz/) [Quiz 2](https://www.sanfoundry.com/python-mcqs-function-1/) [Quiz 3](https://www.sanfoundry.com/python-questions-entrance-exams/) [Quiz 4](https://www.sanfoundry.com/python-questions-campus-interview/) [Quiz 5](https://www.sanfoundry.com/python-questions-answers-function-4/) [Quiz 6](https://www.sanfoundry.com/python-puzzles/) [Quiz 7](https://www.sanfoundry.com/tricky-python-questions-answers/)|Practice from Hackerrank given above|
-|Control Flow| [Quiz 1](https://www.vskills.in/practice/python-control-flow-test) [Quiz 2](https://www.sanfoundry.com/python-questions-answers-while-and-for-loops-1/) [Quiz 3](https://www.sanfoundry.com/advanced-python-questions-answers/) [Quiz 4](https://www.sanfoundry.com/tough-python-questions-answers/) [Quiz 5](https://www.sanfoundry.com/tough-python-questions-answers/) [Quiz 6](https://www.sanfoundry.com/python-questions-answers-experienced/) [Quiz 7](https://www.sanfoundry.com/python-technical-questions-answers/)|Practice from Hackerrank given above|
-|Bitwise Operators| [Quiz 1](https://www.sanfoundry.com/python-questions-answers-bitwise-1/) [Quiz 2](https://www.sanfoundry.com/python-questions-answers-bitwise-2/) [Quiz 3](https://www.sanfoundry.com/python-questions-answers-boolean/)|Practice from Hackerrank given above|
-|Strings| [Quiz 1](https://realpython.com/quizzes/python-strings/) [Quiz 2](https://www.sanfoundry.com/python-mcqs-strings-1/) [Quiz 3](https://www.sanfoundry.com/advanced-python-interview-questions-answers/) [Quiz 4](https://www.sanfoundry.com/python-technical-interview-questions-answers/) [Quiz 5](https://www.sanfoundry.com/python-coding-questions-answers/) [Quiz 6](https://www.sanfoundry.com/basic-python-questions-answers) [Quiz 7](https://www.sanfoundry.com/python-quiz/) [Quiz 8](https://www.sanfoundry.com/python-quiz-online/) [Quiz 9](https://www.sanfoundry.com/python-multiple-choice-questions-answers/) [Quiz 10](https://www.sanfoundry.com/python-mcqs) [Quiz 11](https://www.sanfoundry.com/python-test/) [Quiz 12](https://www.sanfoundry.com/python-online-test/) [Quiz 13](https://www.sanfoundry.com/python-problems/) [Quiz 14](https://www.sanfoundry.com/python-question-bank/) |Practice from Hackerrank given above|
-|List, Tuples| [Quiz 1](https://realpython.com/quizzes/python-lists-tuples/) [Quiz 2](https://www.sanfoundry.com/python-mcqs-lists-1/) [Quiz 3](https://www.sanfoundry.com/python-coding-interview-questions-answers/) [Quiz 4](https://www.sanfoundry.com/python-programming-questions-answers/) [Quiz 5](https://www.sanfoundry.com/python-programming-interview-questions-answers/) [Quiz 6](https://www.sanfoundry.com/python-question-papers/) [Quiz 7](https://www.sanfoundry.com/python-questions-answers-lists-6/) [Quiz 8](https://www.sanfoundry.com/python-questions-answers-lists-7/) [Quiz 9](https://www.sanfoundry.com/python-questions-answers-list-comprehension/) [Quiz 10](https://www.sanfoundry.com/python-mcqs-tuples/) [Quiz 11](https://www.sanfoundry.com/python-questions-answers-tuples-2/) [Quiz 12](https://www.sanfoundry.com/python-questions-answers-tuples-3)|Practice from Hackerrank given above|
-|Dictionary| [Quiz 1](https://realpython.com/quizzes/python-dicts/) [Quiz 2](https://www.sanfoundry.com/python-mcqs-dictionary-1/) [Quiz 3](https://www.sanfoundry.com/python-questions-answers-dictionary-2/) [Quiz 4](https://www.sanfoundry.com/python-questions-answers-dictionary-3/) [Quiz 5](https://www.sanfoundry.com/python-questions-answers-dictionary-4/)|Practice from Hackerrank given above|
-|Sets| [Quiz 1](https://realpython.com/quizzes/python-sets) [Quiz 2](https://www.sanfoundry.com/python-questions-answers-sets-1/) [Quiz 3](https://www.sanfoundry.com/python-questions-answers-sets-2/) [Quiz 3](https://www.sanfoundry.com/python-questions-answers-sets-3/) [Quiz 4](https://www.sanfoundry.com/python-questions-answers-sets-4/) [Quiz 5](https://www.sanfoundry.com/python-questions-answers-sets-5/)|Practice from Hackerrank given above|
+**Conceptual Problems**
 
+<https://practice.geeksforgeeks.org/tag-page.php?tag=OOP&isCmp=0&level=-3&problemType=2&sort=desc&sort_by=ans>
+
+
+|**Topic**|**Coding References**|
+| :-: | :-: |
+|Classes and Objects|<https://www.geeksforgeeks.org/classes-objects-java/>|
+|Attributes & Constructors|<p> <https://www.geeksforgeeks.org/constructors-in-java/></p><p> https://www.w3schools.com/java/java\_class\_attributes.asp</p>|
+|Inheritance|<p> https://www.geeksforgeeks.org/inheritance-in-java/</p><p> https://www.geeksforgeeks.org/java-and-multiple-inheritance/</p><p> https://www.geeksforgeeks.org/tag/java-inheritance/</p>|
+|Overloading|<p> https://www.geeksforgeeks.org/overloading-in-java/</p><p> https://www.geeksforgeeks.org/different-ways-method-overloading-java/</p>|
+|Overriding|https://www.geeksforgeeks.org/overriding-in-java/|
+|Polymorphism|<p> https://www.geeksforgeeks.org/polymorphism-in-java/</p><p> https://www.javatpoint.com/runtime-polymorphism-in-java</p>|
+|Data hiding|<p> <https://www.geeksforgeeks.org/difference-between-data-hiding-and-abstraction-in-java/></p><p> https://www.geeksforgeeks.org/encapsulation-in-java/</p>|
+|Regular Expression|<p> <https://www.geeksforgeeks.org/regular-expressions-in-java/></p><p> https://www.geeksforgeeks.org/tag/java-regular-expression/</p>|
+
+# Data Structures & Algorithms
 ## Week 2
-**Tutorial to Follow** 
+**Tutorial  to Follow**
 
-- [Classes and objects - Overriding](https://www.youtube.com/watch?v=qiSCMNBIP2g)
-
-- [Polymorphism](https://www.youtube.com/watch?v=pii3hAksya0)
-
-- [Data Hiding](https://www.youtube.com/watch?v=FDdfGFhY9Ms)
-
-- [Regular Expression](https://www.youtube.com/watch?v=zN8rwVXwRUE)
-
-
-|**Topic**|**Practice Resource**|**Coding Question**|
-| :-: | :-: | :-: |
-|Classes and Objects| [Quiz 1](https://www.proprofs.com/quiz-school/story.php?title=mjqyoda1mqr4a4) [Quiz 2](https://www.sanfoundry.com/python-questions-answers-classes-objects-1/)| [Python Classes and Objects](https://www.geeksforgeeks.org/python-classes-and-objects/)|
-|Attributes & Constructors|[Quiz](https://www.techbeamers.com/online-python-quiz-beginners-classes-objects)| [Python Class Attributes](https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide) <br/> [Class Instance Attributes](https://www.geeksforgeeks.org/class-instance-attributes-python) <br/> [Constructors in Python](https://www.geeksforgeeks.org/constructors-in-python)|
-|Inheritance| [Quiz 1](https://quizforexam.com/python-inheritance-quiz) [Quiz 2](https://www.goskills.com/Course/Intro-Python/Lesson/2354/Class-Inheritance/Quiz>) [Quiz 3](https://letsfindcourse.com/technical-questions/python-mcq-questions/inheritance-mcq-in-python>) | [Inheritance example](https://www.geeksforgeeks.org/oop-in-python-set-3-inheritance-examples-of-object-issubclass-and-super) <br/> [Python Inheritance](https://www.techbeamers.com/python-inheritance) <br/> [Questions & Answers](https://www.sanfoundry.com/python-questions-answers-inheritance-2)|
-|Overloading| [Quiz 1](https://www.sanfoundry.com/python-interview-questions-answers-experienced) [Quiz 2](https://realpython.com/operator-function-overloading)| [Method Overloading](https://www.geeksforgeeks.org/python-method-overloading) <br/> [Overloading in Python](https://www.geeksforgeeks.org/operator-overloading-in-python)|
-|Overriding|[Quiz 1](https://data-flair.training/blogs/python-inheritance)|[Method Overriding in Python](https://www.geeksforgeeks.org/method-overriding-in-python)|
-|Polymorphism|[Quiz 1](https://www.sanfoundry.com/python-questions-answers-polymorphism)| [Theory 1](https://www.programiz.com/python-programming/polymorphism) [Theory 2](https://www.geeksforgeeks.org/polymorphism-in-python)|
-|Data hiding| [Quiz 1](https://www.sanfoundry.com/python-questions-answers-encapsulation) [Quiz 2](https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction)|[Data hiding and object printing](https://www.geeksforgeeks.org/object-oriented-programming-in-python-set-2-data-hiding-and-object-printing)|
-|Regular Expression| [Quiz 1](https://quizizz.com/admin/quiz/57201781231c6fb53a106d13/regular-expressions-python) [Quiz 2](https://www.sanfoundry.com/python-questions-answers-regular-expressions) [Quiz 3](https://letsfindcourse.com/technical-questions/python-mcq-questions/regular-expressions-mcq-in-python)|[Regex Coding Problems](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-regex)|
-
-# Data Structures and Algorithms
-
-## Week 3
-**Tutorial to Follow [Link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)**
+<https://www.youtube.com/watch?v=RBSGKlAvoiM>
 
 **Coding Questions**
 
-- [Hackerrank Easy + Medium Pt 1](https://www.hackerrank.com/domains/data-structures)
-- [Hackerrank Easy + Medium Pt 2](https://www.hackerrank.com/domains/algorithms)
+- <https://www.hackerrank.com/domains/data-structures> (Easy + Medium)
+- <https://www.hackerrank.com/domains/algorithms> (Easy + Medium)
 
 
 
-|**Topic**|**Practice Resource**|**Coding Question**|
-| :-: | :-: | :-: |
-|Time Complexity| [Quiz 1](https://www.educative.io/courses/data-structures-coding-interviews-python/gxQxZy2PrDY) [Quiz 2](https://www.sanfoundry.com/discrete-mathematics-mcqs-complexity-algorithms) [Quiz 3](https://www.sanfoundry.com/discrete-mathematics-questions-answers-freshers)|[Theory](https://www.interviewbit.com/courses/programming/topics/time-complexity)|
-|Recursion| [Quiz 1](https://www.sanfoundry.com/python-questions-answers-recursion) [Quiz 2](https://www.educative.io/collection/page/6151088528949248/4547996664463360/5756248274239488)|[Theory](https://web.stanford.edu/class/cs9/lectures/06/Recursion%20Problems.pdf)|
-|Linked List|[Practice Problems](https://www.geeksforgeeks.org/data-structure-gq/linked-list-gq)| Practice from Hackerrank given above [Additional Problems](https://www.sanfoundry.com/python-programming-examples-linked-lists)|
-|Stacks and Queues|[Quiz 1](https://quizizz.com/admin/quiz/5f45fadf625a63001f7623a2/python-stacks-queues)| Practice from Hackerrank given above [Additional Problems](https://www.sanfoundry.com/python-programming-examples-stacks-queues)|
-|Hashing|[Quiz](https://www.geeksforgeeks.org/data-structure-gq/hash-gq)|Practice from Hackerrank given above|
-|Searching Algorithms|[Quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-gq) | Practice from Hackerrank given above [Additional Problems](https://www.sanfoundry.com/python-programming-examples-searching-sorting)|
-|Sorting Algorithms|[Quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-and-sorting-gq) ||
+|**Topic**|**Coding Question**|
+| :-: | :-: |
+|Time Complexity|<https://www.interviewbit.com/courses/programming/topics/time-complexity/>|
+|Recursion|<https://web.stanford.edu/class/cs9/lectures/06/Recursion%20Problems.pdf>|
+|Linked List|Practice from Hackerank given above|
+|Stacks and Queues|<p>Practice from Hackerank given above</p>|
+|Hashing|Practice from Hackerank given above|
+|Searching Algorithms|<p>Practice from Hackerank given above</p>|
+|Sorting Algorithms||
 
-# Databases
 
-## Week 4
-[Introduction to Database](https://www.youtube.com/watch?v=wR0jg0eQsZA)
+# HTML/CSS/JS 
+## Week 3
+Database Introduction: <https://www.youtube.com/watch?v=wR0jg0eQsZA>
 
 
 |**Topic**|**Course/Tutorial**|**Exercises**|
 | :-: | :-: | :-: |
-|NumPy|[Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI)| [Exercise 1](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) [Exercise 2](https://skillvalue.com/en/quiz/python/numpy-quiz-medium-level) [Quiz](https://letsfindcourse.com/data-science/python-numpy-mcq-questions)|
-|Pandas|[Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)| [Exercise 1](https://github.com/guipsamora/pandas_exercises) [Exercise 2](https://data-flair.training/blogs/python-pandas-quiz) [Quiz](https://quizizz.com/admin/quiz/5eb11fe9a0a897001b1eedcf/python-pandas-) [Problems](https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions)|
-|Matplotlib|[Tutorial](https://www.youtube.com/watch?v=yZTBMMdPOww) |[Quiz](https://www.w3resource.com/graphics/matplotlib) |
+|What is HTML & What are HTML tags|<p><https://www.w3schools.com/whatis/whatis_html.asp></p>|<p> <http://www.landofcode.com/html-exercises/></p><p> https://www.w3schools.com/html/html\_exercises.asp</p>|
+|Basic CSS elements|<p> <https://www.w3schools.com/css/default.asp></p><p> https://web.dev/learn/css/</p>|<p> <https://www.w3schools.com/css/css_exercises.asp></p><p> https://github.com/TheOdinProject/css-exercises</p>|
+|Responsive HTML/CSS design|<p><https://www.youtube.com/watch?v=srvUrASNj0s></p>|<p><https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects></p><p>(recommended to be done after completing the CSS Flexbox & CSS Grid)</p>|
+|CSS Flexbox|<p>**https://www.youtube.com/watch?v=JJSoEo8JSnc**</p>|<p> <https://flexboxfroggy.com/></p><p> https://codingfantasy.com/games/flexboxadventure/play</p>|
+|CSS Grid|<p>[**https://www.youtube.com/watch?v=jV8B24rSN5o**](https://www.youtube.com/watch?v=jV8B24rSN5o)</p><p>**https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/**</p>|<p> <https://cssgridgarden.com/></p><p> https://codingfantasy.com/games/css-grid-attack/play</p>|
 
-# Mathematics
+
+
+
+
+## Week 4
+Suggested Tutorials: <https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB>
+
+|**Topic**|**Coding Exercises & References**|
+| :-: | :-: |
+|Variables & Types|<p> <https://github.com/ga-wdi-exercises/js-data-types/blob/master/exercise.md></p><p> <https://education.launchcode.org/intro-to-professional-web-dev/chapters/data-and-variables/exercises.html></p><p> https://www.w3docs.com/exercise/javascript/9</p>|
+|Arrays|<p> <https://dev.to/kauresss/some-js-array-exercises-for-beginners-9j8></p><p> <https://www.rithmschool.com/courses/javascript/javascript-arrays-exercise></p><p> https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php</p>|
+|Operators|<p> <https://www.w3docs.com/exercise/javascript/14></p><p> https://www.learn-js.org/en/Operators</p>|
+|Conditions|https://www.teaching-materials.org/javascript/exercises/ifelse|
+|Loops|<p> <https://contactmentor.com/js-loop-exercises-solutions/></p><p> https://www.learn-js.org/en/Loops</p>|
+|Objects|https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php|
+|Object Constructors|https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/constructor-and-prototype-exercises.md|
+|Functions|<p> <https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php></p><p> https://cs.lmu.edu/~ray/notes/javascriptfunctions/</p>|
+|Hoisting|https://kaledoux.medium.com/javascript-exercises-scope-hoisting-and-closures-423893501195|
+|Website DOM|<p> <https://www.youtube.com/watch?v=EHF7xBUAmrQ></p><p> https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php</p>|
+|Events & Event Listeners|https://oscarrobertrodriguez.github.io/exercisesModernDeveloper/javascript-events-in-depth/|
+|Popup boxes|https://www.learn-js.org/en/Pop-up\_Boxes|
+|Callbacks|https://crocoder.dev/blog/callbacks-exercises/|
+
 ## Week 5
 
 
-|**Topic**|**Practice Resource**|**Coding Question**|
-| :-: | :-: | :-: |
-|Statistics|[Course](https://classroom.udacity.com/courses/st101)|[Statistics Interview Questions](https://analyticsindiamag.com/40-interview-questions-on-statistics-for-data-scientists/)|
-|Probability Advanced|[Theory](https://www.khanacademy.org/math/statistics-probability) |[40 Probability questions](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists)|
-
-## Week 6
 
 |**Topic**|**Learning Resource**|**Coding Question**|
 | :-: | :-: | :-: |
-|Probability Miscellaneous|[Theory](https://www.youtube.com/watch?v=LBemXHm_Ops)||
-|Linear Algebra|[Theory](https://www.coursera.org/learn/linear-algebra-machine-learning#syllabus)|[Question](https://www.coursera.org/learn/linear-algebra-machine-learning#syllabus)|
-|Multivariate Calculus(Skip Simple Neural Network and Simple Artificial Neural Network from Week 3)|[Theory](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning#syllabus) ||
-|PCA|[Theory](https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning) ||
+|Promises|https://www.youtube.com/watch?v=DHvZLI7Db8E|<p> <https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/its-time-to-pratice-with-promises></p><p> https://github.com/lighthouse-labs/promises-exercises</p>|
+|Async/Await|https://www.youtube.com/watch?v=PoRJizFvM7s|https://dev.to/bmpickford/practical-beginners-guide-to-problems-with-js-async-await-200p|
+|Object Oriented JS|https://www.youtube.com/watch?v=PFmuCDHHpwk|<p> <https://dev.to/nehal_mahida/oops-in-javascript-with-easy-to-understand-examples-2ppn></p><p> https://hashnode.com/post/using-object-oriented-programming-to-solve-problems-in-javascript-ckxrh4rc300g20ns1enzj23fm</p>|
+|Function context|https://www.youtube.com/watch?v=\_JMXlGt3OSo|<p> <https://www.learn-js.org/en/Function_Context></p><p> https://dev.to/liaowow/take-this-quiz-understand-how-this-works-in-javascript-44dj</p>|
 
-# Machine Learning
+# ES6 (Modern JavaScript Essentials)
+
+Suggested Playlist: https://www.youtube.com/watch?v=NCwa\_xi0Uuc
+## Week 6
+
+
+|**Topic**|**Coding Question/References**|
+| :-: | :-: |
+|let vs const|https://javascript.plainenglish.io/how-to-use-let-var-and-const-in-javascript-cdf42b48d70|
+|Objects|https://medium.com/@andrey.igorevich.borisov/10-javascript-exercises-with-objects-8942cc502754|
+|this keyword|<p> <https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/this-keyword-exercises.md></p><p> https://www.rithmschool.com/courses/advanced-javascript/javascript-keyword-this-exercises</p>|
+|Arrow functions|<p> <https://www.learn-js.org/en/Arrow_Functions></p><p> https://dev.to/sylwiavargas/transforming-functions-into-arrow-functions-practice-quiz-3ggc</p>|
+|Destructuring|<p> <http://curric.rithmschool.com/springboard/exercises/js-destructuring/></p><p> https://subscription.packtpub.com/book/application\_development/9781789800104/1/ch01lvl1sec10/destructuring-assignment</p>|
+|Spread operator|<p> <http://curric.rithmschool.com/springboard/exercises/js-rest-spread/solution/index.html></p><p> <https://github.com/joinpursuit/web-curriculum/blob/master/lessons/es6/spread-operator/spread-operator-practice-exercises.md></p><p> https://www.codingame.com/playgrounds/7998/es6-tutorials-spread-operator-with-fun</p>|
+|Classes|https://www.w3resource.com/javascript-exercises/fundamental/index1.php|
+|Modules|https://subscription.packtpub.com/book/web-development/9781789800104/1/ch01lvl1sec11/classes-and-modules|
+
+
+# Frontend
+
 ## Week 7
-### Course to follow
 
-**Andrew NG Stanford Machine Learning Coursera** [Link](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus)
+### **Package Managers**
 
-**For this Course, all Exercises in Python: [Link](https://github.com/dibgerge/ml-coursera-python-assignments)**
+- What are package managers: https://www.youtube.com/watch?v=0W8-3RwvJwc
+- Npm: <https://www.youtube.com/watch?v=2V1UUhBJ62Y>
+- Yarn: <https://www.youtube.com/watch?v=g9_6KmiBISk>
+
+Additional Links
+
+- Best practices of using npm: https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/
+
+
+### **Module Bundlers**
+
+- What are module bundlers: <https://www.youtube.com/watch?v=5IG4UmULyoA>
+- Webpack: <https://www.youtube.com/watch?v=GU-2T7k9NfI>
+- Configuring Webpack: <https://www.youtube.com/watch?v=TzdEpgONurw>
+- Advanced webpack configurations: <https://www.youtube.com/watch?v=X1nxTjVDYdQ>
+
+Webpack practice problems
+
+- <https://github.com/styopdev/webpack-interview-questions/blob/master/answers.md>
+- <https://www.fullstack.cafe/blog/basic-webpack-interview-questions-and-answers-2019>
+- <https://www.freecodecamp.org/news/how-to-solve-webpack-problems-the-practical-case-79fb676417f4/>
 
 
 
-|**Course Section**|**Topic**|**Practice Codes**|**Additional Resource**|
-| :-: | :-: | :-: | :-: |
-|Week 1: Andrew NG Stanford Machine Learning|What is Machine Learning|||
-||Supervised Learning|||
-||Unsupervised Learning|||
-||Linear Regression with One Variable <br/> Cost Function <br/> Gradient Descent| [Linear Regression without Library in Python](https://github.com/monash128/Linear-Regression-from-scratch-in-Python) <br/> [One variable Linear Regression](https://github.com/MChavoshi96/one-variable-linear-regression) <br/> [One variable Linear Regressions (Advanced)](https://github.com/JayMehta97/One-Variable-Linear-Regression)| Learn EDA before coding <br/> [EDA 1](https://github.com/ejaz22/eda)(EDA Methods Code) <br/> [EDA 2](https://github.com/code4kunal/eda-with-python)(EDA Project) <br/> [Data Analysis](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning#syllabus)|
-||Linear Algebra Review <br/> Vector Arithmetic Operations||Do a quick review as you have done a detailed one initially|
-|Week 2: Andrew NG Stanford Machine Learning|Linear Regression with multiple variables <br/> Multiple Features <br/> Gradient Descent for Multiple Variables <br/> Polynomial Regression <br/> Normal Equation <br/> Non-Invertibility|| [ML without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries/tree/master/3.Multiple%20Linear%20Regression) <br/> [ML using libraries](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Multiple%20Linear%20Regression.ipynb) <br/> [Project](https://github.com/sanithps98/Automobile-Dataset-Analysis)|
+### **Linters & Formatters**
+
+- Motivation for Lint check: <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1841&rep=rep1&type=pdf>
+- What is ES Lint: <https://eslint.org/docs/about/>
+- How ES Lint works: <https://eslint.org/docs/developer-guide/architecture> (Architecture of modern day ES Lint)
+- Linting & formatting with ESLint in JS: <https://www.youtube.com/watch?v=slEtjbr8sVY>
+- Types of standard ES Lint configs (AirBnb): https://www.youtube.com/watch?v=SydnKbGc7W8&t=8s
+
+
+
+### Practice Problems
+
+- https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?autoAdvance=true&autoSkip=false&autoplay=true&resume=true
+
+
+
 
 
 ## Week 8
 
-|**Course Section**|**Topic**|**Practice Codes**|
-| :-: | :-: | :-: |
-|Week 3: Andrew NG Stanford Machine Learning|Logistic Regression: <br/>Classification <br/>Hypothesis Representation <br/>Decision Boundary <br/>Cost Function <br/>Optimization| [Logistic Regression Practice from scratch](https://github.com/CloudyDay54/Logistic-Regression-Practice) <br/> [Logistic Regression using Library](https://github.com/CarolynMassa/LogisticRegression/blob/master/Mini_Project_Logistic_Regression.ipynb) <br/> [Logistic Practice examples](https://github.com/aryamonani/Logistic-Regression-practice-examples) |
-||Regularization <br/>Overfitting <br/>Regularised Linear Regression <br/>Regularised Logistic Regression|[Regularization without library](https://github.com/pickus91/Logistic-Regression-Classifier-with-L2-Regularization) |
+### **Pick a framework**
+
+NOTE: For the sake of this roadmap we’ll be beginning out with React JS to set up our foundational understanding of modern day frontend javascript frameworks. This will indeed enable us to later subjectify the choice of frameworks depending on our use cases.
+
+**Suggested Playlist:**
+
+<https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3>
 
 
-**Summary Exercise:**
+Note: Use the links below for a structured approach to a project.
 
-Based on what you have Learned, conduct the following project: [Link](https://github.com/georgymh/ml-fraud-detection)
+<https://github.com/taniarascia/react-tutorial>
 
-`	Note: Use the links below for a structured approach to a project. `
+[**https://github.com/101t/react-tutorial**](https://github.com/101t/react-tutorial)
 
-- [Getting Started (Kaggle)](https://www.kaggle.com/getting-started/114864)
+**Advanced Concepts in React**
 
-- [Step by step tutorial for beginners](https://www.kaggle.com/rp1611/step-by-step-tutorial-for-beginners)
+**<https://github.com/enaqx/awesome-react>**
+
+NOTE: Check this out once you complete the playlist and beginner level projects to get familiar to th React ecosystem
 
 
 
-|**Course Section**|**Topic**|**Practice Codes**|
-| :-: | :-: | :-: |
-|Week 7: Andrew NG Stanford Machine Learning|Support Vector Machines <br/>Optimization <br/>Large Margin Intuition <br/>Underlying Mathematics <br/>Kernels| [SVM using Library 1](https://github.com/cperales/SupportVectorMachine) <br/> [SVM using Library 2](https://github.com/AmmirMahdi/Support-Vector-Machine-With-Python) <br/> [SVM without Library](https://github.com/CihanBosnali/Support-Vector-Machine-without-ML-libraries) |
+|**Topic**|**Practice Codes/Coding References**|
+| :-: | :-: |
+|React components|<p> <https://daveceddia.com/react-practice-components/></p><p> https://www.vskills.in/practice/react-components-questions</p>|
+|Code Splitting|<p> <https://www.geeksforgeeks.org/code-splitting-in-react/></p><p> https://www.freecodecamp.org/news/code-splitting-in-react-loadable-components/</p>|
+|Lazy Loading|<p> <https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/></p><p> <https://www.tutorialspoint.com/lazy-loading-in-reactjs></p><p> https://medium.com/@sujitsingh\_55772/lazy-loading-in-react-25bb2d6114e1</p>|
+|State|<p> <https://buildwithreact.com/tutorial/state><br>  <https://levelup.gitconnected.com/learn-react-usestate-hook-a09ccf955537?gi=dbc5be7e1c9e></p><p> <https://contactmentor.com/react-js-practice-exercises-solution/></p><p> https://gist.github.com/ross-u/2ab3a3d1fb327c7c20c1473f1898d8e5</p>|
+|Props|<p> Refactor (<https://gist.github.com/ross-u/2ab3a3d1fb327c7c20c1473f1898d8e5>) using props</p><p> <http://nicholasjohnson.com/react/course/exercises/props/></p><p> https://react.learncodingfree.org/props/exercise-for-props</p>|
+|Handlers|<p> <https://www.codecademy.com/courses/react-102/lessons/react-forms/exercises/input-event-handler></p><p> https://coderfiles.dev/blog/reactjs-coding-exercises/</p>|
+|Hooks|<p> <https://codesandbox.io/s/91l58yqo></p><p> <https://www.telerik.com/kendo-react-ui/react-hooks-guide/></p><p> <https://github.com/FormidableLabs/september-react-training/blob/master/slides/05-hooks.md></p><p> https://scrimba.com/scrim/cNga6zTR</p>|
 
 
 ## Week 9
-**Applied Data Science Course [Link](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python#syllabus)**
+**Continuing React from week 8**
 
-|**Course Section**|**Topic**|**Practice Codes**|
+
+|**Topic**|**Resource**|**Practice Codes**|
 | :-: | :-: | :-: |
-|Week 1: Applied Data Science Course|Intro to SciKit Learn| [Environment Setup](https://github.com/PythonWorkshop/intro-to-sklearn) <br/> [Code Tutorial](https://github.com/mmmayo13/scikit-learn-classifiers) [Project](https://github.com/sixhobbits/sklearn-intro) |
-|Week 1: Applied Data Science Course|K Nearest Neighbors| [KNN from scratch](https://github.com/sagarmk/Knn-from-scratch) <br/> [KNN using SKLearn](https://github.com/jakemath/KNN-SKLearn) <br/> [UCI Glass detection](https://github.com/aaqibqadeer/UCI-glass-detection)|
-|Week 2: Applied Data Science Course|Introduction to Supervised Learning <br/> Overfitting and Underfitting <br/> Supervised Learning: Datasets <br/> K Nearest Neighbours ||
-|Week 2: Applied Data Science Course|Linear Regression: Least Squares| [Boston Housing Problem - Linear Regression](https://github.com/jorgesleonel/linear-regression/blob/master/Boston%2BHousing%2BPricing%2BLinear%2BRegression.ipynb) <br/> [Simple Linear Regression](https://github.com/raxshah/Simple-Linear-Regression-Python) |
-|Week 2: Applied Data Science Course|Linear Regression: Lasso| [Lasso Regression without library](https://github.com/mihirchakradeo/LassoRegression) <br/> [Lasso Regression with library](https://github.com/kirenz/lasso-regression) |
-|Week 2: Applied Data Science Course|Linear Regression: Polynomial| [Polynomial Regression without Library](https://github.com/pickus91/Polynomial-Regression-From-Scratch) |
+|Lifting State up|<p> <https://www.youtube.com/watch?v=ahKsy1FS45k></p><p> https://youtu.be/ZluNj0-NpNI</p>|<p> <https://shopify-1.gitbook.io/react/2.-intermediate/lifting-state-up></p><p> https://codepen.io/albino/pen/gRJBYO</p>|
+|Contexts|Refer to playlist above|https://www.toptal.com/react/react-context-api|
+|High Order Components|Refer to playlist above|https://github.com/Asabeneh/30-Days-Of-React/blob/master/16\_Higher\_Order\_Component/16\_higher\_order\_component.md|
+|Synthetic Events|https://youtu.be/wi8RwDOCxhQ|https://www.rithmschool.com/courses/react-fundamentals/react-events|
+
+
+Solve this after completing React: <https://github.com/sudheerj/reactjs-interview-questions>
 
 ## Week 10
+**Redux**
+**
 
-|**Course Section**|**Topic**|**Practice Codes**|
+**
+Suggested Playlist
+
+<https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK>
+
+
+
+
+
+Project Based Tutorials:
+
+- <https://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/>
+
+PS: Couple Redux with React in all these projects
+
+|**Beginner Project**|**Use Case**|**Reference**|
 | :-: | :-: | :-: |
-|Week 2: Applied Data Science Course|Logistic Regression|Since it's already covered, do a quick review here.|
-|Week 2: Applied Data Science Course|Support Vector Machines| [SVM using Library](https://github.com/cperales/SupportVectorMachine) <br/> [SVM with Python](https://github.com/AmmirMahdi/Support-Vector-Machine-With-Python) <br/> [SVM without library](https://github.com/CihanBosnali/Support-Vector-Machine-without-ML-libraries) |
-|Week 2: Applied Data Science Course|Decision Trees| [Naive Bayes without library](https://github.com/Radhikadua123/naive_bayes) <br/> [Decision tree without library](https://github.com/harrypnh/decision-tree-from-scratch) |
-|CS229 Stanford|Ensemble Methods|[Theory](https://www.youtube.com/watch?v=wr9gUr-eWdA)|
-|Week 4: Applied Data Science Course|Naive Bayes| [Naive Bayes](https://github.com/Radhikadua123/naive_bayes) <br/> [Sklearn Classifiers](https://github.com/jg-fisher/sklearn-classifiers)|
+|Basket App|Add/delete list of items in shopping basket|https://github.com/AliceWonderland/Basket-App|
+|Pet appointment planner|Schedule your pet’s appointment <br>(No Database or APIs)|<p><https://github.com/YahiaElTai/React-Redux-Projects-for-beginners/tree/master/pet-appointment></p><p> This will be a little large project, make sure to cover .eslintrc checks with it and try creating custom build with webpack</p>|
 
 
 ## Week 11
+**Testing**
 
-|**Course Section**|**Topic**|**Practice Codes**|
-| :-: | :-: | :-: |
-|Week 4: Applied Data Science Course|Random Forests| [Random forest without library](https://github.com/harrypnh/random-forest-from-scratch) <br/> [Random forest Classifier](https://github.com/mahesh147/Random-Forest-Classifier) |
-|Week 4: Applied Data Science Course|Dimensionality Reduction and Manifold Learning| [Good Read](https://jakevdp.github.io/PythonDataScienceHandbook/05.10-manifold-learning.html) <br/> [Dimensionality reduction and classification on Hyperspectral images](https://github.com/syamkakarla98/Dimensionality-reduction-and-classification-on-Hyperspectral-Images-Using-Python) |
+We will be using the enterprise accepted libraries of enzyme and jest as testing library for test driven development of our react apps
 
 
+
+
+
+**Theory**
+
+- What is testing?: https://www.guru99.com/software-testing-introduction-importance.html
+- What is unit testing?: https://smartbear.com/learn/automated-testing/what-is-unit-testing/
+- What is integration testing?: https://www.guru99.com/integration-testing.html
+- What is regression testing?: https://www.katalon.com/resources-center/blog/regression-testing/
+- What is alpha testing?: https://www.javatpoint.com/alpha-testing
+- What is beta testing?: https://www.guru99.com/alpha-beta-testing-demystified.html
+- What is system testing?: https://www.geeksforgeeks.org/system-testing/
+- What is performance testing?: <https://www.microfocus.com/en-us/what-is/performance-testing>
+- What is Agile framework of development: https://www.guru99.com/agile-scrum-extreme-testing.html
+
+**Suggested Playlist**
+
+<https://www.youtube.com/watch?v=EgJZv9Iyj-E&list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_>
+
+**Capstone Projects/Problems**
+
+- [**https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme**](https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme)
+- [**https://github.com/twclark0/react-enzyme-jest**](https://github.com/twclark0/react-enzyme-jest)
+- **https://github.com/ebramanti/react-jest-enzyme-examples**
 ## Week 12
-### Quick Review
+[Revision]
 
-[IBM's Machine Learning with python](https://www.coursera.org/learn/machine-learning-with-python)
+Polish your skills with this additional concept based coding problems: ​​<https://github.com/Asabeneh/30-Days-Of-React>
 
-**For this Course, all Exercises in Python:** 
+In this week of learning, create mini projects encompassing the concepts you’ve learned so far in React
 
-[Machine Learning exercise with Python (IBM)](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM)
-
-
-|**Course Section**|**Topic**|**Practice Codes**|
+|**Mini Projects**|**Use Case**|**Reference**|
 | :-: | :-: | :-: |
-|Week 1: Machine Learning With Python|Python for Machine Learning Intro|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Supervised vs Unsupervised|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 2: Machine Learning With Python|Linear Regression <br/> Model Evaluation <br/> Evaluation Metrics|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Non-Linear Regression|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 3: Machine Learning With Python|K-Nearest Neighbours <br/> Intro to Classification <br/> KNN <br/> Evaluation Metrics|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Decision Trees <br/> Building Decision Trees|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Logistic Regression <br/> Logistic vs Linear Regression <br/> Logistic Regression training|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Support Vector Machine|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 4: Machine Learning With Python|k-Means Clustering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-||Hierarchical Clustering| [Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM)  [](https://github.com/shubhamjha97/hierarchical-clustering) |
-||Density-Based Clustering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 5: Machine Learning With Python|Content based Recommendation Engines <br/> Recommender Systems <br/> Collaborative Filtering|[Course Practice Problems](https://github.com/sudhanshu456/Machine-Learning-with-Python-IBM) |
-|Week 6: Machine Learning With Python|Course Project|
+|Birthday Reminder|Add birthdate of your friends and display days remaining to their birthdays as a list|https://github.com/bilkn/birthday-reminder-app|
+|Todo App|A simple todo app that enlists your tasks of the day and marks them done|https://github.com/kabirbaidhya/react-todo-app|
+|Movie Database|A database of IMDB movies allowing search query|https://github.com/iftee/react-movie-database|
+|Quiz App|React app which contains MCQs and make the user moves ahead as it answers correctly|https://github.com/Jatin-8898/react-quiz-app|
 
+
+# Databases
 
 ## Week 13
-**Continuing the course Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus)**
+
+Database Introduction: <https://www.youtube.com/watch?v=wR0jg0eQsZA>
+
+**SQL**
+
+Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst>
 
 
-|**Course Section**|**Topic**|**Practice Codes**|
+|Topic|Topic/Tutorial|Exercises|
 | :-: | :-: | :-: |
-|Week 4: Andrew NG Stanford Machine Learning|Neural Networks: Representation <br/> Non-Linear Hypothesis <br/> Model Representation <br/> Intuitions|[Getting used to Neural nets](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises) |
-|Week 5: Andrew NG Stanford Machine Learning|Neural Networks: Learning <br/> Cost Function <br/> Backpropagation <br/> Gradient Checking <br/> Random Initialization <br/> Autonomous Driving|[Deep Learning for Beginners](https://github.com/PacktPublishing/Python-Deep-Learning-for-Beginners-) |
-|Week 6: Andrew NG Stanford Machine Learning|Machine Learning System Design <br/> Evaluating Hypothesis <br/> Model Selection <br/> Bias vs. Variance <br/> Regularization <br/> Learning Curves|[Machine Learning Systems design](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)|
+|SQL|<https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=youtu.be><br>(ER Diagrams towards the end of the video are optional)|<p> <https://www.hackerrank.com/domains/sql></p><p> <https://www.w3schools.com/sql/exercise.asp></p><p> <https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082></p>|
+|Week 3: Databases and SQL for Data Science with Python|String Pattern, Ranges and Operations on Sets<br><https://www.coursera.org/learn/sql-data-science/lecture/UPbqw/using-string-patterns-and-ranges>|<https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%201%20(String%20Patterns%2C%20Ranges%2C%20Sorting%20and%20Grouping).PNG>|
+||<p>Functions, Multiple Tables and Sub-Queries<br><https://www.coursera.org/learn/sql-data-science/lecture/0bRtQ/built-in-database-functions></p>|<p> Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB></p><p> Course Lab 2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB%202></p><p> <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%202%20(Functions%2C%20Sub-Queries%2C%20Multiple%20Tables).PNG></p>|
+|Week 4: Database and SQL for Data Science with Python|Methods and Tools to access Database with Python |<p> <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/quiz%201(Database%20access%20from%20Python).PNG></p><p> Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%201></p><p> Course Lab2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%202></p>|
+|Week 5: Database and SQL for Data Science with Python|Hands on SQL Experience with Real world Data|<p>Assignment: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%204/Assignment></p>|
+|SQL Project View|Take a Look at the Project Level Implementation of SQL|<p> <https://github.com/samarth-p/College-ERP></p><p> <https://github.com/honza/anosql></p>|
 
 
-## Week 14
-**Andrew NG Stanford Machine Learning Coursera [Link](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&siteID=OyHlmBp2G0c-Pz_SUObaCOEH_BFsYUreyw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c#syllabus)**
 
+Additional Practice Problems:
 
-|**Course Section**|**Topic**|**Practice Codes**|
-| :-: | :-: | :-: |
-|Week 8: Andrew NG Stanford Machine Learning|Unsupervised Learning <br/>Introduction <br/>K-means <br/>Optimization Objective <br/>Initialization <br/>Picking Clusters| [Handson unsupervised learning](https://github.com/aapatel09/handson-unsupervised-learning) <br/> [Unsupervised Learning](https://github.com/srp98/Unsupervised-Learning) <br/> [Unsupervised learning without libraries](https://github.com/pavankalyan1997/Machine-learning-without-any-libraries) |
-||Dimensionality Reduction <br/>Data Compression <br/>Visualization <br/>PCA| [Dataset Dimensionality reduction in Python](https://github.com/lucko515/dataset-dimensionality-reduction-python) <br/> [Complete Project](https://github.com/gavr97/dimensionality-reduction) |
-|Week 9: Andrew NG Stanford Machine Learning|Anomaly Detection <br/>Gaussian Distribution <br/>Anomaly Detection vs Supervised Learning- Choosing Features- Multivariate Gaussian| [Anomaly Detection](https://github.com/aqibsaeed/Anomaly-Detection/blob/master/Anomaly%20Detection.ipynb) |
-||Recommender Systems <br/>Content Based Recommendations <br/>Collaborative Filtering <br/>Vectorization|[Amazon Product Recommender System](https://github.com/mandeep147/Amazon-Product-Recommender-System) |
-|Week 10: Andrew NG Stanford Machine Learning|Refer to course Videos||
-|Week 11: Andrew NG Stanford Machine Learning|Refer to course Videos||
+- <https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-book-list-database>
+- <https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-box-office-hits-database>
+- <https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-todo-list-database-stats>
+- <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pc/challenge-karaoke-song-selector>
+- <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pc/challenge-playlist-maker>
+- <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pc/challenge-the-wordiest-author>
+- <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pc/challenge-gradebook>
+- <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pc/challenge-bobbys-hobbies>
+- <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pc/challenge-customers-orders>
+- <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pc/challenge-sequels-in-sql>
+- <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pc/challenge-friendbook>
+- <https://www.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/pc/challenge-dynamic-documents>
+- <https://www.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/pc/challenge-clothing-alterations>
+- <https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pp/project-design-a-store-database>
+- <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pp/project-data-dig>
+- <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pp/project-famous-people> 
+- <https://www.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/pp/project-app-impersonator>
 
-# Deep Learning
-
-## Week 15
-**[Continue with Deeplearning.ai specialization](https://www.coursera.org/specializations/deep-learning#courses)**
-
-|**Course Section**|**Topic**|**Practice Codes**|
-| :-: | :-: | :-: |
-|Week 1: Neural Networks and Deep Learning| What are neural networks and deep learning? <br/>Supervised Learning with Neural Networks|[Course Practice Problem](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1)|
-|Week 2: Neural Networks and Deep Learning| Binary Classification <br/>Logistic Regression <br/>Cost Function <br/>Gradient Descent <br/>Derivatives <br/>Computation Graph|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week2/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv4.ipynb)|
-|Week 2: Neural Networks and Deep Learning| Vectorization <br/>Broadcasting in Python <br/>Getting Started with Jupyter Notebook|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week2/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)|
-|Week 3: Neural Networks and Deep Learning| Neural network representation <br/>Vectorising <br/>Activation Functions <br/>Non Linear Activation Functions <br/>Derivation of Activation Functions <br/>Gradient Descent for Neural Networks <br/>Backpropagation <br/>Random Initialization|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week3/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv4.ipynb)|
-|Week 4: Neural Networks and Deep Learning| Forward Propagation <br/>Deep PresentationsParameters vs Hyperparameters|[Course Practice Problem](https://github.com/Gurupradeep/deeplearning.ai-Assignments/tree/master/Neural-networks-Deep-learning/Week4)|
-
-## Week 16
-**[Continue with Deeplearning.ai specialization](https://www.coursera.org/specializations/deep-learning#courses)**
-
-
-|**Course Section**|**Topic**|**Practice Codes**|
-| :-: | :-: | :-: |
-|Week 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Train/Dev/Test <br/>Bias/Variance| [Course Practice Problem 1](https://www.coursera.org/learn/deep-neural-network/home/week/1) <br/> [Course Practice Problem 2](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Initialization.ipynb)|
-|Week 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Regularization <br/>Importance of Regularization <br/>Dropout <br/>Normalizing Input <br/>Vanishing/Exploding Gradients <br/>Weight Initialization <br/>Gradient Checking|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Regularization.ipynb)|
-|Week 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Mini Batch Gradient Descent <br/>Bias Correction <br/>Momentum <br/>RMSProp|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%201/Gradient%2BChecking.ipynb)|
-|Week 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization| Adam optimization <br/>Learning Rate Decay <br/>Local Optima|[Course Practice Problem](https://github.com/bondeanikets/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/blob/master/Week%202/Optimization%2Bmethods.ipynb)|
-|Week 3: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization|Hyperparameter tuning| [Course Practice Problem 1](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms/blob/master/HPO_Regression.ipynb) <br/> [Course Practice Problem 2](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms/blob/master/HPO_Classification.ipynb)|
-|Week 3: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization| Tuning <br/>Picking Hyperparammeters <br/>Normalising Activators <br/>Fitting Batch Norm- Softmax|[Course Practice Problem](https://github.com/abhishek-yadav-cse/multiclass-classification/blob/master/MedicalAbstractClasssification.ipynb)|
-
-## Week 17
-**[Continue with Deeplearning.ai specialization](https://www.coursera.org/specializations/deep-learning#courses)**
-
-
-|**Course Section**|**Topic**|**Practice Codes**|
-| :-: | :-: | :-: |
-|Week 1: Structuring Machine Learning Projects| Orthogonalisation <br/>Satisficing & Optimising Metric <br/>Varying Dev/Test sets & Metrics <br/>Avoidable Bias|[Course Practice Problem](https://github.com/bnsreenu/python_for_microscopists/blob/master/144_145_binary_classification_ROC_AUC.py) |
-|Week 2: Structuring Machine Learning Projects|Error Analysis|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/GwViP/carrying-out-error-analysis) |
-|Week 2: Structuring Machine Learning Projects|Mismatched training and dev/test set|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/Xs9IV/training-and-testing-on-different-distributions) |
-|Week 2: Structuring Machine Learning Projects|Learning from Multiple Tasks|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/WNPap/transfer-learning) |
-|Week 2: Structuring Machine Learning Projects|End to end deep learning|[Course Practice Problem](https://www.coursera.org/learn/machine-learning-projects/lecture/k0Klk/what-is-end-to-end-deep-learning) |
-
-# Keras
-
-## Week 18
-
-
-|**Topic**|**Tutorial**|
-| :-: | :-: |
-|Getting Started with Keras Modules|[Video](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)|
-|Keras Implementation Example (Classification Boilerplate Code)| [Video](https://www.youtube.com/watch?v=vF21cC-8G1U) [Code](https://github.com/bnsreenu/python_for_microscopists/blob/master/144_145_binary_classification_ROC_AUC.py)|
-|Step By Step Making model in Keras|[First Neural Network in Keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras) |
-|Binary Classification In Keras|[Code using NN](https://github.com/rishanki/Binary_classification-Keras-ANN-)|
-|Logistic Regression in Keras|[Code](https://github.com/tgjeon/Keras-Tutorials/blob/master/02_logistic_regression.ipynb)|
-|End to end deep learning|[Video](https://www.coursera.org/learn/machine-learning-projects/lecture/k0Klk/what-is-end-to-end-deep-learning) |
-|Neural Networks| [Code](https://github.com/tgjeon/Keras-Tutorials/blob/master/03_net.ipynb)  [Tutorial](https://github.com/tgjeon/Keras-Tutorials/blob/master/04_modern_net.ipynb)|
-|Regularization Keras: L1/L2|[Theory](https://keras.io/api/layers/regularizers)|
-|Regularization Keras: DropOut|[Theory](https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras)|
-|Weight Init|[Theory](https://keras.io/api/layers/initializers/#available-initializers)|
-|Optimizer Keras|[Theory](https://keras.io/api/optimizers/#available-optimizers)|
-|Learning Rate Decay|[Theory](https://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras)|
-|Convolutional Network|[Theory](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification)|
-
-# Neural Networks and Deep Learning with Keras:
-`The concepts shown below are covered in the previous sections of `
-
-- Neural Networks and Deep Learning
-- Improving Deep Neural Networks 
-- Hyperparameter Tuning 
-- Regularization and Optimization
-
-## Week 19
-**Continue with Deeplearning.ai specialization [Link](https://www.coursera.org/specializations/deep-learning#courses)** 
-
-
-|**Course Section**|**Topic**|**Practice Codes**|
-| :-: | :-: | :-: |
-|Week 1: Convolutional Neural Networks|Convolutional Neural Networks Foundation <br/> Edge Detection <br/> Padding <br/> Stride <br/> Convolution over volume <br/> Pooling| [Course Practice Problem 1](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb) <br/> [Course Practice Problem 2](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Convolution%20model%20-%20Application%20-%20v1.ipynb)|
-|Week 2: Convolutional Neural Networks|Case Studies using ConvNets <br/>Resnets <br/>Inception <br/>Mobile Net <br/>Efficient Net <br/>Transfer Learning <br/>Data Augmentation|[Course Practice Problem](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Residual%20Networks%20-%20v1.ipynb)|
-|Week 3: Convolutional Neural Networks| Object Localization <br/>Landmark Detection <br/>Object Detection <br/>Sliding Windows <br/>Bounding Box <br/>IoU <br/>Non max suppression <br/>Anchor Box <br/>YOLO <br/>Region Proposal <br/>Semantic Segmentation <br/>Transpose Convolution <br/>U-Net|[Course Practice Problem](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.ipynb)|
-|Week 4: Convolutional Neural Networks| Face recognition & Neural style transfer <br/>Face Recognition <br/>One Shot Learning <br/>Siameses Net <br/>Triplet Loss <br/>Face Verification & Binary Classification <br/>Neural Style Transfer <br/>Deep ConvNets Learning <br/>Cost Function <br/>Content Cost Function <br/>Style Cost Function <br/>1D & 3D Generalisations| [Course Practice Problem 1](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v1.ipynb) <br/> [Course Practice Problem 2](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Face%20Recognition%20for%20the%20Happy%20House%20-%20v2.ipynb) |
-
-
-## Week 20
-**Continue with Deeplearning.ai specialization [Link](https://www.coursera.org/specializations/deep-learning#courses)** 
-
-|**Course Section**|**Topic**|**Practice Codes**|
-| :-: | :-: | :-: |
-|Week 1:Sequence Models|Recurrent Neural Networks <br/> Backpropagation through time <br/>Types of RNN <br/> Language Model & Sequence Generation <br/> Novel Sequences <br/> Vanishing Gradients with RNN, GRU, LSTM, Bidirectional RNN, Deep RNN|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%201)|
-|Week 2:Sequence Models| Word Representation <br/> Word Embeddings <br/> Embedding Matrix <br/> Word2Vec <br/> Negative Sampling <br/> GloVe <br/> Sentiment Classification <br/> Debiasing word embeddings|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%202)|
-|Week 3:Sequence Models|Various sequence to sequence architectures <br/> Basic Models <br/> Picking Most Likely Sentence <br/> Beam search <br/> Error Analysis in Beam Search <br/> Bleu Score <br/> Attention Model|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%203/Machine%20Translation)|
-|Week 3:Sequence Models|Speech Recognition <br/> Trigger Word Detection|[Course Practice Problem](https://github.com/gyunggyung/Sequence-Models-coursera/tree/master/Week%203/Trigger%20word%20detection)|
-
-
-**Revise the progress till now from**
-
-[https://github.com/mrdbourke/zero-to-mastery-ml](GitHub/Zero-to-mastery-ml)
-
-**Then progress to Stanford CS231** [Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
-
-## Helpful Projects to follow after learning
-- [Image Classification using CNN & Keras](https://github.com/IBM/image-classification-using-cnn-and-keras)
-- [Weather Forecast & Prediction by Machine Learning](https://github.com/yinglung174/Weather-Forecast-And-Prediction-by-Machine-Learning)
-- [DeepMoji](https://github.com/21-projects-for-deep-learning/DeepMoji)
-- [FaceSwap](https://github.com/21-projects-for-deep-learning/faceswap)
-- [Social Distancing with AI](https://github.com/rohanrao619/Social_Distancing_with_AI)
-- [Keras Deep Speech](https://github.com/robmsmt/KerasDeepSpeech)
-
-## Additional Topic Wise Helpful Resources
-- [Linear Algebra](https://www.youtube.com/watch?v=kZwSqZuBMGg)
-- [What is Machine Learning?](https://www.youtube.com/watch?v=LBemXHm_Ops)
-- [Supervised v Unsupervised v Reinforcement Learning](https://www.youtube.com/watch?v=LBemXHm_Ops)
-- [Getting started with Jupyter Notebook](https://www.youtube.com/watch?v=pZW8Ry3R1e8)
-- [Linear Regression](https://www.youtube.com/watch?v=LBemXHm_Ops)
-- [Non-Linear Regression](https://www.youtube.com/watch?v=LBemXHm_Ops)
-- [Multiple Variable Linear Regression](https://www.youtube.com/watch?v=LBemXHm_Ops)
-- [Classification](https://www.youtube.com/watch?v=DAFljjxmyZw)
-- [Logistic Regression](https://www.youtube.com/watch?v=LBemXHm_Ops)
-- [Regularisation](https://www.youtube.com/watch?v=LBemXHm_Ops)
-- [K Nearest Neighbours](https://www.youtube.com/watch?v=wTF6vzS9fy4)
-- [Classification Metrics](https://www.youtube.com/watch?v=HBi-P5j0Kec)
-- [Support Vector Machine](https://www.youtube.com/watch?v=FB5EdxAGxQg)
-- [Naive Bayes](https://www.youtube.com/watch?v=vz_xuxYS2PM)
-- [Support Vector Machine](https://www.youtube.com/watch?v=2v430er9hkI)
-- [Decision Tree](https://www.youtube.com/watch?v=qDcl-FRnwSU)
-- [Random Forest](https://www.youtube.com/watch?v=lEqu-WJjRt4)
-- [Stochastic Gradient Descent](https://www.youtube.com/watch?v=aXpsCyXXMJE)
-- [Neural Network](https://www.youtube.com/watch?v=9UBqkUJVP4g)
-- [Clustering](https://www.youtube.com/watch?v=4cxVDUybHrI)
-- [K Means Clustering](https://www.youtube.com/watch?v=EItlUEPCIzM)
-- [Hierarchical Clustering](https://www.youtube.com/watch?v=EUQY3hL38cw)
-- [Mean Shift Clustering](https://www.youtube.com/watch?v=3ERPpzrDkVg)
-- [DBSCAN](https://www.youtube.com/watch?v=Q7iWANbkFxk)
-- [EM Algorithm](https://www.youtube.com/watch?v=DIADjJXrgps)
-
-**Helpful Books for Reference**
-
-- [Deep learning book](https://www.deeplearningbook.org/) 
-- [Dive into Deep Learning](http://d2l.ai/) 
-- [Mathematics for Machine Learning](https://mml-book.com/) 
-- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) 
-
-## Kaggle Resources
-[Click](https://www.coursera.org/learn/competitive-data-science#syllabus)
 
 ## Congrats!
 
-Once you have made till here, you can jump on to solving Kaggle and taking up a bundle of Data Science projects!
+Once you have made till here, you can jump on to working on frontend projects and start applying to frontend roles. Also, do explore different frontend frameworks now and learn about them.
+<br/>
+For those who wanna continue on the journey of web development and want to tackle Backend and Devops too. Stay Tuned!
